@@ -39,8 +39,12 @@ app.get("/", (req, res) => {
     res.render('home');
 })
 
-
 const csvfilepath = "./files/files.csv"
+
+function spChar(str) {
+    const specialChars = /[`!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/;
+    return specialChars.test(str);
+}
 
 app.post("/files", upload.single('csv'), async (req, res) => {
 
@@ -55,6 +59,8 @@ app.post("/files", upload.single('csv'), async (req, res) => {
             console.log(json[0]);
 
             let objs = [];
+
+            let error = {};
 
             let naming = [];
 
@@ -76,6 +82,15 @@ app.post("/files", upload.single('csv'), async (req, res) => {
 
                     let val = json[i][key];
 
+                    if (spChar(val)) {
+                        if (i + 2 in error)
+                            error[i + 2][key] = val;
+                        else {
+                            error[i + 2] = new Object();
+                            error[i + 2][key] = val;
+                        }
+                    }
+
                     arr.push(val);
                 })
 
@@ -88,11 +103,17 @@ app.post("/files", upload.single('csv'), async (req, res) => {
                 arr = [];
             }
 
+            console.log(error);
+
             for (let i = 1; i < len; i++) {
                 fs.writeFileSync(naming[i] + ".json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
                     if (err) console.log(err)
                 })
             }
+
+            fs.writeFileSync("error.json", JSON.stringify(error, null, 4), "utf-8", (err) => {
+                if (err) console.log(err)
+            })
         })
 
     res.render('home');

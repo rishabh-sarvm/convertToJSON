@@ -1,676 +1,265 @@
-keys,English,Bangala,Hindi,Kannada,Odia
+Keys,English,Bangala,Hindi,Kannada,Odia
 item,Item,"
 আইটেম",वस्तु,ವಾಸ್ತು,
 product,Product Item,পণ্য,उत्पाद,ಉತ್ಪನ್ನದ ವಸ್ತುಗಳು,ଉତ୍ପାଦ ବସ୍ତୁ
 price,price,দাম,कीमत,ಬೆಲೆ,ମୂଲ୍ୟ
 cost,cost,ব্যয়,लागत,ಬೆಲೆ,ମୂଲ୍ୟ
 name,name,নাম,नाम,ಹೆಸರು,ନାମ
-fruis,Fruits,ফল,फल,OK,ଫଳଗୁଡିକ
+fruis,Fruits,ফল,,,ଫଳଗୁଡିକ
 address,Address,ঠিকানা,पता,ಭಾಷಣ,ଠିକଣା
-error,error ,ত্রুটি,गलती,ದೋಷ,ତ୍ରୁଟି
+error,error ,ত্রুটি,,ದೋಷ,ତ୍ରୁଟି
 selectYourLanguage,Select Your Language,আপনার ভাষা নির্বাচন করুন,अपनी भाषा का चयन करें,ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ,ଆପଣଙ୍କର ଭାଷା ଚୟନ କରନ୍ତୁ |
 selectYourPreference,Select your preference,আপনার পছন্দ নির্বাচন করুন,अपनी पसंद चुनो,ನಿಮ್ಮ ಆದ್ಯತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ,ଆପଣଙ୍କର ପସନ୍ଦ ଚୟନ କରନ୍ତୁ |
-vegetarian,Vegetarian,নিরামিষ,शाकाहारी,ಸಸ್ಯಾಹಾರಿ,ଶାକାହାରୀ
-nonVegetarian,non vegetarian,মাংসাশি,मांसाहारी,ಸಸ್ಯಾಹಾರಿ,ଅଣ ଶାକାହାରୀ |
+vegetrian,vegetrian,উদ্ভিজ্জ,सब्जी,ಸಸ್ಯಾಹಾರಿ,ପ୍ୟାରିସାନ
+nonVegetrian,non vegetrian,অ উদ্ভিজ্জ,गैर -वनस्पति,ಸಸ್ಯಾಹಾರಿಗಳಲ್ಲದ,ଅଣ ସାନ୍ତ୍ରୀ |
 getStarted,Get started,এবার শুরু করা যাক,शुरू हो जाओ,ಪ್ರಾರಂಭಿಸಿ,ଆରମ୍ଭ ହୋଇଗଲା
 selectYourCity,Select Your City,আপনার শহর নির্বাচন করুন,अपने शहर का चयन करें,ನಿಮ್ಮ ನಗರವನ್ನು ಆಯ್ಕೆಮಾಡಿ,ତୁମର ସହର ଚୟନ କର |
 procced,Proceed,অগ্রসর,आगे बढ़ना,ಮುಂದುವರೆಯಲು,ଅଗ୍ରଗତି କର |
 filters,Filters,ফিল্টার,फिल्टर,ಕವಚ,ଫିଲ୍ଟର୍
 sortBy,sort by,ক্রমানুসার,इसके अनुसार क्रमबद्ध करें,ವಿಂಗಡಿಸು,ଦ୍ boot ାରା ସର୍ଟ କରନ୍ତୁ |
-veg,Vegetarian,নিরামিষ,शाकाहारी,ಸಸ್ಯಾಹಾರಿ,ଶାକାହାରୀ
+veg,veg,Veg,शाकाहारी,ಸಸ್ಯಾಹಾರ,ଭେଗ
 ratings4+,ratings 4+,রেটিং 4+,रेटिंग 4+,ರೇಟಿಂಗ್ 4+,ରେଟିଂ 4+
 nearYou,Near you,আপনার কাছাকাছি,आप के पास,ನಿನ್ನ ಹತ್ತಿರ,ଆପଣଙ୍କ ନିକଟରେ
 mobileNumber,Mobile number,মোবাইল নম্বর,मोबाइल नंबर,ಮೊಬೈಲ್ ನಂಬರ,ମୋବାଇଲ୍ ନମ୍ବର
 otp,OTP,ওটিপি,ओटीपी,ಒತ್ತು,Otp
-#REF!,#REF!,চালিয়ে যান,जारी रखना,ಮುಂದುವರಿಸು,ଜାରି ରଖ |
-continue,Continue,কল,बुलाना,ಕರೆಯಿಸು,କଲ୍ କରନ୍ତୁ |
-#REF!,#REF!,খুদেবার্তা,एसएमएस,ಎಸ್‌ಎಂಎಸ್,ଏସଏମଏସ
-#REF!,#REF!,হোয়াটসঅ্যাপ,WhatsApp,ವಾಟ್ಸಾಪ್,ହ୍ ats ାଟସ୍ ଆପ୍ |
-call,Call,আবার অর্ডার,फिर से आदेश देना,ಮತ್ತೆ ಆದೇಶಿಸಿ,ପୁଣି ଅର୍ଡର କର
-sms,SMS,এখন যেখানে আছ,वर्तमान स्थान,ಈಗಿನ ಸ್ಥಳ,ସାମ୍ପ୍ରତିକ ଅବସ୍ଥାନ |
-whatsApp,WhatsApp,জিপিএস ব্যবহার করে,जीपीएस का उपयोग करना,ಜಿಪಿಎಸ್ ಬಳಸುವುದು,ଜିପି ବ୍ୟବହାର କରିବା |
-orderAgain,order again,ঘন ঘন ব্যবহৃত,बहुधा प्रयुक्त,ಆಗಾಗ್ಗೆ ಬಳಸಲಾಗುತ್ತದೆ,ବାରମ୍ବାର ବ୍ୟବହୃତ |
-currentLocation,Current location,অন্য,अन्य,ಬೇರೆ,ଅନ୍ୟ
-usingGps,using GPS,কাজ,काम,ಕೆಲಸ,କାର୍ଯ୍ୟ
-frequentlyUsed,Frequently used,বাড়ি,घर,ಮನೆ,ଘର
-#REF!,Other ,সাম্প্রতিক অনুসন্ধান,हाल ही में खोज,ಇತ್ತೀಚಿನ ಹುಡುಕಾಟ,ସାମ୍ପ୍ରତିକ ସନ୍ଧାନ |
-work,Work ,স্থান নির্বাচন করুন,स्थान चुनें,ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ,ଅବସ୍ଥାନ ଚୟନ କରନ୍ତୁ |
-home,Home ,পরিবর্তন,परिवर्तन,ಬದಲಾವಣೆ,ପରିବର୍ତ୍ତନ
-recentSearch,Recent Search ,অবস্থান নিশ্চিত করুন,स्थान की पुष्टि करें,ಸ್ಥಳವನ್ನು ದೃ irm ೀಕರಿಸಿ,ଅବସ୍ଥାନ ନିଶ୍ଚିତ କରନ୍ତୁ |
-selectLocation,Select Location,দূরত্বের চেয়ে কম,दूरी से कम,ಕಡಿಮೆ ದೂರ,ଠାରୁ କମ୍ ଦୂରତା |
-change,Change,কিমি,किमी,ಕಿಮೀ,କିଲୋମିଟର
-confirmLocation,Confirm location,অধিক,इससे अधिक,ಹೆಚ್ಚು,ଠାରୁ ଅଧିକ
-distanceLessThan,Distance less than ,সব,सभी,ಎಲ್ಲರೂ,ସମସ୍ତ
-km,KM,বিতরণ,वितरण,ವಿತರಣೆ,ବିତରଣ
-#REF!,#REF!,পিকআপ,उठाना,ತಿಕ್ಕಲು,ପିକଅପ୍ |
-moreThan,More than,পূর্ববর্তী আদেশ,पिछला आदेश,ಹಿಂದಿನ ಕ್ರಮ,ପୂର୍ବ କ୍ରମ
-#REF!,#REF!,প্রায়শই কেনা,अक्सर खरीदा,ಆಗಾಗ್ಗೆ ಖರೀದಿಸಲಾಗುತ್ತದೆ,ବାରମ୍ବାର କିଣିଛି |
-all,All,প্রস্তাবিত,अनुशंसित,ಶಿಫಾರಸು ಮಾಡಿದ,ସୁପାରିଶ କରାଯାଇଛି |
-delivery,Delivery ,বিক্রেতা সম্পর্কে,विक्रेता के बारे में,ಮಾರಾಟಗಾರರ ಬಗ್ಗೆ,ବିକ୍ରେତା ବିଷୟରେ
-pickUp,Pickup,আইটেম বিক্রি,बेचना आइटम,ವಸ್ತುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವುದು,ଆଇଟମ୍ ବିକ୍ରୟ |
-previousOrder,Previous order,তালিকা,मेन्यू,ಮೆಳ್ಳಿ,ମେନୁ
-frequentlyUsed,Frequently bought,ফেভারিটে যোগ করুন,पसंदीदा में जोड़ो,ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ,ପ୍ରିୟମାନଙ୍କୁ ଯୋଡନ୍ତୁ |
-recommended,Recommended,শেয়ার,शेयर करना,ಹಂಚು,ଅଂଶୀଦାର କରନ୍ତୁ |
-aboutSeller,About seller ,শপ তথ্য,दुकान की सूचना,ಶಾಪಿಂಗ್ ಮಾಹಿತಿ,ଦୋକାନ ସୂଚନା
-sellingItems,Selling items,আরও,अधिक,ಆಫ್,ଅଧିକ
-menu,Menu ,ফল,फल,ಫಲ,ଫଳଗୁଡିକ
-addToFavorites,Add to favourites,শাকসবজি,सब्ज़ियाँ,ತರಕಾರಿಗಳು,ପନିପରିବା |
-share,share ,আজ,आज,ಇಂದು,ଆଜି
-shopInformation,shop Information,আগামীকাল,कल का दिन,ನಾಳೆ,ଆସନ୍ତାକାଲି
-more,More ,পরিমাণ যোগ করুন,मात्रा जोड़ें,ಪ್ರಮಾಣವನ್ನು ಸೇರಿಸಿ,ପରିମାଣ ଯୋଗ କରନ୍ତୁ |
-fruits,Fruits ,টুকরা,टुकड़े,ತುಂಡು,ଖଣ୍ଡଗୁଡ଼ିକ
-vegetables,Vegetables ,টুকরা সংখ্যা,टुकड़ों की संख्या,ತುಣುಕುಗಳ ಸಂಖ್ಯೆ,ଖଣ୍ଡଗୁଡ଼ିକର ସଂଖ୍ୟା
-today,Today,পরিমাণ,राशि,ಮೊತ್ತ,ପରିମାଣ
-tomorrow,Tomorrow,কার্ট দেখুন,गाडी देंखे,ಕಾರ್ಟ್ ವೀಕ್ಷಿಸಿ,କାର୍ଟ ଦେଖନ୍ତୁ |
-addQuantity,Add quantity ,অর্ডার সংক্ষিপ্তসার,आदेश सारांश,ಆದೇಶ ಸಾರಾಂಶ,କ୍ରମ ସାରାଂଶ
-pieces,pieces,বিস্তারিত বিল,विस्तृत बिल,ವಿವರವಾದ ಬಿಲ್,ବିସ୍ତୃତ ବିଲ୍ |
-numberOfpieces,Number of pieces,কার্ট মোট,कुल गाड़ी,ಕಾರ್ಟ್ ಒಟ್ಟು,କାର୍ଟ ସମୁଦାୟ
-amount,Amount,ছাড়,छूट,ರಿಯಾಯಿತಿ,ରିହାତି
-viewCart,view cart,মোট,कुल,ಒಟ್ಟು,ସମୁଦାୟ
-#REF!,#REF!,স্ব পিকআপ,स्व चयन,ಸ್ವಸಹಾಯ,ସେଲ୍ପ୍ ପିକଅପ୍ |
-orderSummary,order summary,মোট প্রদেয়,कुल देय,ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು,ସମୁଦାୟ ଦେୟଯୋଗ୍ୟ |
-detailedBill,detailed bill,পিকআপে অর্থ প্রদান করুন,पिकअप पर भुगतान करें,ಪಿಕಪ್ನಲ್ಲಿ ಪಾವತಿಸಿ,ପିକଅପ୍ ରେ ଦେୟ ଦିଅ |
-cartTotal,cart total,সংরক্ষণ বিশদ,बचाए गए विवरण,ಉಳಿಸಿದ ವಿವರಗಳು,ସବିଶେଷ ବିବରଣୀ ସଞ୍ଚୟ ହୋଇଛି |
-discount,discount,ডেবিট/এটিএম কার্ড,डेबिट/एटीएम कार्ड,ಡೆಬಿಟ್/ಎಟಿಎಂ ಕಾರ್ಡ್,ଡେବିଟ୍ / ଏଟିଏମ୍ କାର୍ଡ |
-total,total,নেট ব্যাংকিং,शुद्ध बैंकिंग,ನಿವ್ವಳ ಬ್ಯಾಂಕಿಂಗ್,ନିଟ୍ ବ୍ୟାଙ୍କିଙ୍ଗ୍ |
-selfPickup,self pickup,ডেবিট/ক্রেডিট কার্ড যুক্ত করুন,डेबिट/क्रेडिट कार्ड जोड़ें,ಡೆಬಿಟ್/ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸೇರಿಸಿ,ଡେବିଟ୍ / କ୍ରେଡିଟ୍ କାର୍ଡ ଯୋଡନ୍ତୁ |
-totalPayable,total payable,ওয়ালেট এবং আপি,बटुए और यूपीआई,ಕೈಚೀಲಗಳು ಮತ್ತು ಯುಪಿಐ,ୱାଲେଟ୍ ଏବଂ ୟୁଇ
-payAtPickup,pay at pickup,ফোনপ,phonepe,ಫನ್‌ಪೆ,ଫୋନ୍ଦେ
-savedDetails,saved details,পেটিএম,Paytm,ಪೇಟಿಎಂ,ପେଟି
-debitAtmCard,debit/atm card,অন্যান্য আপি,अन्य यूपीआई,ಇತರ ಯುಪಿಐ,ଅନ୍ୟ ଉତ୍ତୋଳୁଛି
-netBanking,net banking,নিরাপদে অর্থ প্রদান করুন,सुरक्षित रूप से भुगतान करें,ಸುರಕ್ಷಿತವಾಗಿ ಪಾವತಿಸಿ,ସୁରକ୍ଷିତ ଭାବରେ ଦେୟ ଦିଅ |
-addDebitCreditCard,add debit/credit card,বিতরণ,परेशानी करना,ನಲ್ಲಿ ತಲುಪಿಸಿ,ରେ ବିତରଣ କରନ୍ତୁ |
-walletsUpi,wallets & UPI,কোনো যোগাযোগ নেই,कोई संपर्क नहीं,ಸಂಪರ್ಕವಿಲ್ಲ,କ contaction ଣସି ସମ୍ପର୍କ ନାହିଁ
-phonepe,phonepe,নির্ধারিত ডেলিভারি,समय पर डिलीवरी,ನಿಗದಿತ ವಿತರಣೆ,ନିର୍ଧାରିତ ବିତରଣ |
-paytm,Paytm,আমি,पूर्वाह्न,ಅಮ್,ମୁଁ
-otherUpi,other UPI,প্রধানমন্ত্রী,बजे,ಮಧ್ಯಾಹ್ನ,PM
-paySecurely,pay securely,ঘন্টা,घंटा,ಗಂಟೆ,ଘଣ୍ଟା
-deliverAt,deliver at,বিনামূল্যে বিতরণ,नि: शुल्क डिलिवरी,ಉಚಿತ ವಿತರಣೆ,ମାଗଣା ବିତରଣ |
-noContact,no contact,সিভিভি লিখুন,CVV दर्ज करें,ಸಿವಿವಿ ನಮೂದಿಸಿ,CVV ପ୍ରବେଶ କରନ୍ତୁ |
-scheduledDelivery,scheduled delivery,কার্ড নম্বর,कार्ड नंबर,ಕಾರ್ಡ್ ಸಂಖ್ಯೆ,କାର୍ଡ଼ ସଂଖ୍ୟା
-am,am,মেয়াদোত্তীর্ণ,समाप्ति,ಅವಧಿ ಮುಗಿಸು,ସମାପ୍ତି
-pm,pm,কার্ডের ওপর নাম.,कार्ड पर नाम।,ಕಾರ್ಡ್ನಲ್ಲಿ ಹೆಸರು.,ପତ୍ର ଉପରେ ଲିଖିତ ନାମ।
-hour,hour,কার্ডের বিশদ সংরক্ষণ করুন,कार्ड विवरण सहेजें,ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಉಳಿಸಿ,କାର୍ଡ ବିବରଣୀ ସଞ୍ଚୟ କରନ୍ତୁ |
-freeDelivery,free delivery,আইসিআইসিআই,आईसीआईसीआई,ಐಸಿಐಸಿ,ଆଇସିସି
-enterCvv,Enter CVV,এসবিআই,स्टेट बैंक ऑफ इंडिया,ಸೇನೆಯ,SBI
-cardNumber,card number,এইচডিএফসি,एचडीएफसी,ಎಚ್ಡಿಎಫ್ಸಿ,HDFC
-expiry,expiry,আরও ব্যাংক,अधिक बैंक,ಹೆಚ್ಚು ಬ್ಯಾಂಕುಗಳು,ଅଧିକ ବ୍ୟାଙ୍କଗୁଡିକ |
-nameOnCard,name on card.,আদেশ সমর্থন করা হলো,ऑर्डर की पुष्टि की गई,ಆದೇಶವನ್ನು ದೃ confirmed ಪಡಿಸಲಾಗಿದೆ,ଅର୍ଡର ନିଶ୍ଚିତ ହୋଇଛି |
-saveCardDetails,save card details,অর্ডার নম্বর,क्रम संख्या,ಆದೇಶ ಸಂಖ್ಯೆ,ଅର୍ଡର ନମ୍ବର
-icici,ICICI,অর্থ প্রদান,भुगतान,ಪಾವತಿ,ଦେୟ
-sbi,sbi,আদেশের তারিখ,आदेश की तिथि,ಆದೇಶದ ದಿನಾಂಕ,କ୍ରମର ତାରିଖ
-hdfc,hdfc,সাহায্য,मदद करना,ಸಹಾಯ ಮಾಡು,ସାହାଯ୍ୟ
-moreBanks,more banks,ট্র্যাক আদেশ,ऑर्डर पर नज़र रखें,ಟ್ರ್ಯಾಕ್ ಆದೇಶ,ଟ୍ରାକ୍ ଅର୍ଡର |
-orderConfirmed,order confirmed,সক্রিয় আদেশ,सक्रिय आदेश,ಸಕ್ರಿಯ ಕ್ರಮ,ସକ୍ରିୟ କ୍ରମ |
-#REF!,#REF!,দেখুন,दृश्य,ನೋಟ,ଦର୍ଶନ
-orderNumber,order number,চ্যাট,बात करना,ಚಾಚು,ଚାଟ୍ କରନ୍ତୁ |
-payment,payment ,আদেশ বিবরণী,ऑर्डर का विवरण,ಆದೇಶದ ವಿವರಗಳು,ବିବରଣୀ ଅର୍ଡର କରନ୍ତୁ |
-dateOfOrder,date of order,বাতিল,रद्द करना,ರದ್ದುಮಾಡು,ବାତିଲ୍ କରନ୍ତୁ |
-help,help,বিতরণ,वितरण,ವಿತರಣೆ,ବିତରଣ
-trackOrder,track order,সমর্থন,सहयोग,ಬೆಂಬಲ,ସମର୍ଥନ
-activeOrder,active order,অর্থ প্রদান,भुगतान,ಪಾವತಿ,ଦେୟ
-view,view,আদেশ মোট,कुल आर्डर,ಆದೇಶದ ಒಟ್ಟು,ସମୁଦାୟ ଅର୍ଡର କରନ୍ତୁ |
-chat,chat,আদেশ স্থাপন,आदेश रखा,ಆದೇಶವನ್ನು ಇರಿಸಲಾಗಿದೆ,ଦିଆଯାଇଥିବା ଆଦେଶ
-orderDetails,order details,অর্ডার গৃহীত,आदेश स्वीकार किया गया,ಆದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ,ଆଦେଶ ଗ୍ରହଣ
-cancel,cancel,প্রক্রিয়াজাতকরণ,प्रसंस्करण,ಸಂಸ್ಕರಣೆ,ପ୍ରକ୍ରିୟାକରଣ
-delivery,delivery,প্রস্তুত,तैयार,ಸಿದ್ಧವಾದ,ପ୍ରସ୍ତୁତ
-support,support,প্রেরণ,भेजा गया,ರವಾನಿಸಿದ,ପଠାଗଲା
-payment,payment,বিক্রেতার সাথে যোগাযোগ করুন,विक्रेता से संपर्क कारें,ಸಂಪರ್ಕ ಮಾರಾಟಗಾರ,ବିକ୍ରେତାଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
-orderTotal,order total,অর্ডার সংক্ষিপ্তসার দেখুন,देखें आदेश सारांश,ಆದೇಶ ಸಾರಾಂಶವನ್ನು ವೀಕ್ಷಿಸಿ,ଅର୍ଡର ସାରାଂଶ ଦେଖନ୍ତୁ |
-orderPlaced,order placed,নির্দেশাবলী যুক্ত করুন,निर्देश जोड़ें,ಸೂಚನೆಗಳನ್ನು ಸೇರಿಸಿ,ନିର୍ଦ୍ଦେଶାବଳୀ ଯୋଡନ୍ତୁ
-orederAccepted,order accepted,আমার অ্যাকাউন্ট,मेरा खाता,ನನ್ನ ಖಾತೆ,ମୋ ଖାତା
-processing,processing,প্রিয়,पसंदीदा,ನೆಚ್ಚಿನ,ପ୍ରିୟ
-ready,ready,সেটিংস,समायोजन,ಸಂಯೋಜನೆಗಳು,ସେଟିଂସମୂହ
-dispatched,dispatched,আমার ঠিকানা,मेरा पता,ನನ್ನ ವಿಳಾಸ,ମୋ ଠିକଣା
-#REF!,#REF!,আমার পরিবার,मेरा परिवार,ನನ್ನ ಕುಟುಂಬ,ମୋର ପରିବାର
-contactSeller,contact seller,উল্লেখ করুন,उद्घृत करना,ಉಲ್ಲೇಖಿಸು,ଅନୁସରଣ କରନ୍ତୁ |
-viewOrderSummary,view order summary,স্বতন্ত্র,व्यक्तिगत,ವ್ಯಕ್ತಿ,ବ୍ୟକ୍ତିଗତ
-addInstructions,add instructions,ব্যবসা,व्यवसाय,ವ್ಯವಹಾರ,ବ୍ୟବସାୟ
-myAccount,My account ,পোস্ট অর্ডার,पोस्ट ऑर्डर,ಪೋಸ್ಟ್ ಆದೇಶ,ପୋଷ୍ଟ କ୍ରମ
-favorite,Favourite,প্রস্থান,लॉग आउट,ಲಾಗ್ ಔಟ್,ପ୍ରସ୍ଥାନ କର
-settings,settings,নাম,नाम,ಹೆಸರು,ନାମ
-myAddress,my address,যোগাযোগের নম্বর,संपर्क संख्या,ಸಂಪರ್ಕ ಸಂಖ್ಯೆ,ଯୋଗାଯୋଗ ସଂଖ୍ୟା
-myFamily,my family,সম্পর্ক,रिश्ता,ಸಂಬಂಧ,ସମ୍ପର୍କ
-refer,refer,ওটিপি পান,OTP प्राप्त करें,ಒಟಿಪಿ ಪಡೆಯಿರಿ,OTP ପାଆନ୍ତୁ |
-individual,individual,ওটিপি প্রবেশ করান,OTP दर्ज करें,ಒಟಿಪಿ ನಮೂದಿಸಿ,OTP ପ୍ରବେଶ କରନ୍ତୁ |
-busness,Business,মেল,मेल,ಮೇಲ್ಕಡೆ,ମେଲ୍
-postOrder,post order,ফেসবুক,फेसबुक,ಫೇಸ್‌ಫೆಕ್,ଫେସବୁକ୍
-logout,logout,নাম,,ಹೆಸರು,ନାମ
-name,Name ,ইমেল,ईमेल,ಇಮೇಲ್ ಮಾಡುವುದು,ଇମେଲ୍
-contactNumber,Contact number,যোগাযোগ,संपर्क Ajay करें,ಸಂಪರ್ಕ,ଯୋଗାଯୋଗ କରନ୍ତୁ |
-relation,Relation,হালনাগাদ,अपडेट करें,ನವೀಕರಿಸು,ଅଦ୍ୟତନ କରନ୍ତୁ |
-getOtp,Get otp,বাতিল,रद्द करना,ರದ್ದುಮಾಡು,ବାତିଲ୍ କରନ୍ତୁ |
-enterOtp,enter otp,আইটেম,सामान,ವಸ್ತುಗಳು,ବସ୍ତୁଗୁଡ଼ିକ
-mail,Mail,দোকান,दुकान का,ಅಂಗಡಿ,ଦୋକାନ
-facebook,Facebook,অবস্থান অনুমতি দিন,स्थान की अनुमति दें,ಸ್ಥಳವನ್ನು ಅನುಮತಿಸಿ,ଅବସ୍ଥାନକୁ ଅନୁମତି ଦିଅନ୍ତୁ |
-name,Name,বিজ্ঞপ্তি অনুমতি দিন,अधिसूचना की अनुमति दें,ಅಧಿಸೂಚನೆಯನ್ನು ಅನುಮತಿಸಿ,ବିଜ୍ଞପ୍ତି ଅନୁମତି ଦିଅନ୍ତୁ |
-email,email,অন্য,अन्य,ಬೇರೆ,ଅନ୍ୟ
-contact,contact ,বাড়ির কাজ,घर का पाठ,ಮನೆಕೆಲಸ,ଗୃହ କାର୍ଯ୍ୟ
-update,update ,নতুন ঠিকানা যোগ করুন,नया पता जोड़ें,ಹೊಸ ವಿಳಾಸವನ್ನು ಸೇರಿಸಿ,ନୂତନ ଠିକଣା ଯୋଡନ୍ତୁ |
-cancel,cancel ,জমি চিহ্ন,सीमाचिह्न,ಹೆಗ್ಗುರುತು,ଜମି ଚିହ୍ନ
-items,Items,সংরক্ষণ করুন এবং এগিয়ে যান,सहेजें और आगे बढ़ें,ಉಳಿಸಿ ಮತ್ತು ಮುಂದುವರಿಯಿರಿ,ସଞ୍ଚୟ କର ଏବଂ ଅଗ୍ରଗତି କର |
-shops,Shop's,শর্তাবলী,नियम और शर्तें,ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು,ସର୍ତ୍ତାବଳୀ
-allowLocation,Allow location,FAQS,सामान्य प्रश्नोत्तर,FAQS,FAQs
-allowNotification,Allow notification,গোপনীয়তা নীতি,गोपनीयता नीति,ಗೌಪ್ಯತಾ ನೀತಿ,ଗୋପନୀୟତା ନୀତି
-otherUpi,other,যোগাযোগ করুন,संपर्क करें,ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ,ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
-homeWork,home work,গ্রাহক সেবা,ग्राहक देखभाल,ಗ್ರಾಹಕ ಆರೈಕೆ,ଗ୍ରାହକ ସେବା
-addNewAddress,Add new address,গ্রাহক যত্ন নম্বর,ग्राहक देखभाल संख्या,ಗ್ರಾಹಕ ಆರೈಕೆ ಸಂಖ್ಯೆ,ଗ୍ରାହକ ସେବା ସଂଖ୍ୟା |
-#REF!,#REF!,হ্যাঁ,हां,ಹೌದು,ହଁ
-#REF!,#REF!,না,नहीं,ಇಲ್ಲ,ନା
-landMark,land mark,আবার বৈধতা,फिर से मान्य करें,ಮತ್ತೆ ಮೌಲ್ಯೀಕರಿಸಿ,ପୁନର୍ବାର ବ valid ଧ କରନ୍ତୁ |
-#REF!,#REF!,কর্মচারী,कर्मचारी,ಉದ್ಯೋಗಿ,କର୍ମଚାରୀ
-saveAndProceed,save and proceed,স্বতন্ত্র,व्यक्तिगत,ವ್ಯಕ್ತಿ,ବ୍ୟକ୍ତିଗତ
-termsAndConditions,terms and conditions ,ব্যবসা,व्यापार,ವ್ಯವಹಾರ,ବ୍ୟବସାୟ
-faqs,FAQS,বোর্ডে,सवार,ಹಡಗಿನಲ್ಲಿ,ସବାର
-privacyPolicy,Privacy policy ,অনবোর্ড স্ব,स्वप्नल,ಸ್ವಯಂ ಆನ್‌ಬೋರ್ಡ್,ସେଲ୍ଫ୍ ଅନ୍ବୋର୍ଡ |
-contactUs,contact us,ব্যবসায়ের দ্বারা জাহাজে,व्यवसाय द्वारा जहाज पर,ವ್ಯವಹಾರದಿಂದ ಆನ್‌ಬೋರ್ಡ್,ବ୍ୟବସାୟ ଦ୍ୱାରା ଅନ୍ବୋର୍ଡ |
-customerCare,customer care,খুচরা বিক্রেতা,फुटकर विक्रेता,ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿ,ଖୁଚୁରା ବ୍ୟବସାୟୀ
-customerCareNumber,customer care number ,মধ্যস্থতাকারী,बिचौलिया,ಮಧ್ಯವರ್ತಿ,ମଧ୍ୟମ
-#REF!,#REF!,কৃষক,किसान,ರೈತ,କୃଷକ
-yes,yes,ফোন নম্বর,फ़ोन नंबर,ದೂರವಾಣಿ ಸಂಖ್ಯೆ,ଫୋନ୍ ନମ୍ବର
-no,no ,বাসা নং,घर का नंबर,ಮನೆ ಇಲ್ಲ,ଘର ନା
-#REF!,#REF!,বিল্ডিং,इमारत,ಕಟ್ಟಡ,ନିର୍ମାଣ
-validateAgain,validate again,রাস্তা,सड़क,ಬೀದಿ,ଗଳି
-employee,Employee ,ল্যান্ডমার্ক,सीमाचिह्न,ಹೆಗ್ಗುರುತು,ଚିହ୍ନ ଚିହ୍ନ
-individual,individual ,অবস্থা,राज्य,ರಾಜ್ಯ,ରାଜ୍ୟ
-busness,business,শহর,शहर,ನಗರ,ସହର
-onboard,onboard ,পিনকোড,पिन कोड,ಕಸಚೋದಿ,ପିନକୋଡ୍ |
-selfOnBoard,self onboard ,অবস্থান,स्थान,ಸ್ಥಳ,ଅବସ୍ଥାନ
-onboardByBuisness,onboard by business,জমা দিন,प्रस्तुत,ಸಲ್ಲಿಸು,ଦାଖଲ କର |
-retailer,retailer,ঠিকানা সম্পাদনা,पता संपादित करें,ವಿಳಾಸವನ್ನು ಸಂಪಾದಿಸಿ,ଠିକଣା ସଂପାଦନ କରନ୍ତୁ
-middleMan,middleman,সদস্য যুক্ত করুন,सदस्य जोड़ें,ಸದಸ್ಯರನ್ನು ಸೇರಿಸಿ,ସଦସ୍ୟ ଯୋଡନ୍ତୁ |
-former,farmer,মধ্যে বিতরণ,भीतर वितरण,ಒಳಗೆ ವಿತರಣೆ,ଭିତରେ ବିତରଣ |
-phoneNumber,phone number ,বাড়ি,घर,ಮನೆ,ଘର
-houseNo,house no,বিজ্ঞপ্তি,अधिसूचना,ಅಧೀನೀಕರಣ,ବିଜ୍ଞପ୍ତି
-building,building ,ভয়েস,आवाज़,ಧ್ವನಿ,ସ୍ୱର
-street,Street ,ফলের দোকান,फलों की दुकान,ಹಣ್ಣುಗಳ ಅಂಗಡಿ,ଫଳ ଦୋକାନ
-landmark,landmark ,বিতরণ,देते,ವಿಪರ್ಯತಿ,ବିତରଣ
-state,state ,বিতরণ না,डिलीवर नहीं,ತಲುಪಿಸುತ್ತಿಲ್ಲ,ବିତରଣ ନକରିବା
-city,City ,বিক্রেতা প্রোফাইল,विक्रेता का ब्यौरा,ಮಾರಾಟಗಾರರ ಪ್ರೊಫೈಲ್,ବିକ୍ରେତା ପ୍ରୋଫାଇଲ୍ |
-pincode,pincode ,কল্পিত,आश्चर्यजनक,ಅದ್ಭುತ,ଫାବୁଲସ୍ |
-location,location ,গ্রাহক রেট,ग्राहक रेटेड,ಗ್ರಾಹಕ ರೇಟ್ ಮಾಡಲಾಗಿದೆ,ଗ୍ରାହକ ମୂଲ୍ୟାୟନ
-submit,submit ,অবস্থান অনুসন্ধান,खोज स्थान,ಸ್ಥಳವನ್ನು ಹುಡುಕಿ,
-editAddress,Edit Address,বিভাগ দ্বারা কেনাকাটা,श्रेणियों द्वारा दुकान,,
-addMember,Add member,পরবর্তী,अगला,,
-deliveryWithin,Delivery within,ফেভারিটে যোগ করুন,पसंदीदा में जोड़ो,,
-home,Home,শপ তথ্য,दुकान की जानकारी,,
-notification,Notification,ফল,फल,,
-voice,voice,Vegatables,शख्स,,
-fruitsShop,Fruits Shop,স্থানীয় বাগান,स्थानीय उद्यान,,
-delivering,Delivering ,পরিমাণ যোগ করুন,मात्रा जोड़ें,,
-notDelivering,Not delivering,নিশ্চিত করুন,पुष्टि करें,,
-sellerProfile,Seller profile,কার্ট দেখুন,गाडी देंखे,,
-fabulous,Fabulous,নিরাপদে অর্থ প্রদান করুন,सुरक्षित रूप से भुगतान करें,,
-customerRated,Customer rated,মধ্যে বিতরণ,भीतर वितरण,,
-searchLocation,Search location,অর্ডার নম্বর,क्रम संख्या,,
-shopByCategories,Shop by categories,অর্থ প্রদান,भुगतान,,
-next,next,সাহায্য,मदद करना,,
-addToFavorites,Add to favourites,ট্র্যাক আদেশ,ऑर्डर पर नज़र रखें,,
-shopInfo,Shop Info,দেখুন,राय,,
-fruits,Fruits,চ্যাট,बात करना,,
-vegatables,Vegatables,আদেশ বিবরণী,ऑर्डर का विवरण,,
-localGarden,Local Garden,আদেশ বাতিল,आदेश रद्द,,
-addQuantity,Add Quantity ,নির্দেশাবলী যুক্ত করুন,निर्देश जोड़ें,,
-confirm,Confirm,সমর্থন,सहयोग,,
-viewCart,View Cart,আমার পরিবার,मेरा परिवार,,
-paySecurely,Pay Securely,উল্লেখ করুন,उद्घृत करना,,
-deliveryWithin,Delivery Within,স্বতন্ত্র,व्यक्तिगत,,
-orderNumber,Order Number,ব্যবসা,व्यवसाय,,
-payment,Payment,অতীত আদেশ,अतीत के आदेश,,
-#REF!,#REF!,আরও আদেশ দেখুন,अधिक आदेश देखें,,
-help,Help,প্রস্থান,लॉग आउट,,
-trackOrder,Track order,নাম,नाम,,
-view,View,মোবাইল নম্বর,मोबाइल नंबर,,
-chat,Chat,সম্পর্ক,रिश्ता,,
-#REF!,#REF!,যোগ করুন,जोड़ें,,
-orderDetails,order details,ওটিপি প্রবেশ করান,OTP दर्ज करें,,
-cancelOrder,Cancel Order,যাচাই করুন,सत्यापित करना,,
-addInstructions,Add instructions,ওটিপি,ओटीपी,,
-support,support,উল্লেখ করুন,द्वारा संदर्भित करना,,
-myFamily,My family,ইমেল,ईमेल,,
-reffer,Refer,ফেসবুক,फेसबुक,,
-individual,Individual,হোয়াটসঅ্যাপ,व्हाट्स ऐप,,
-business,Business,বার্তা,संदेश,,
-pastOrders,Past Orders,জীবন বৃত্তান্ত সম্পাদনা,प्रोफ़ाइल संपादित करें,,
-viewMoreOrders,View More Orders,বাতিল,रद्द करना,,
-logOut,LOG OUT,অনুকূল,पक्षपात करना,,
-name,Name,দোকান,दुकानें,,
-mobileNumber,Mobile Number,সংরক্ষণ ঠিকানা,सहेजा गया पता,,
-relation,Relation,সাহায্য,पूछे जाने वाले प्रश्न,,
-add,Add,FAQS,गोपनीयता नीतियाँ,,
-enterOtp,Enter OTP,গোপনীয়তা নীতি,संपर्क करें,,
-verify,Verify,যোগাযোগ করুন,ग्राहक देखभाल,,
-otp,OTP,গ্রাহক সেবা,क्लिक करके,,
-#REF!,#REF!,ক্লিক করে,मुझे स्वीकार है,,
-refferBy,Refer by,আমি স্বীকার করছি,शर्तें,,
-email,Email,শর্তাবলী,शर्तों और,,
-facebook,Facebook,শর্ত এবং,,,
-whatsapp,Whatsapp,গোপনীয়তা নীতি.,प्राप्त नहीं हुआ,,
-message,Message,গ্রহণ করেনি,के माध्यम से सत्यापित करें,,
-editProfile,Edit Profile,মাধ্যমে যাচাই করুন,वितरण,,
-cancel,CANCEL,ওটিপি,पिकअप के भीतर,,
-favoruites,Favoruites,বিতরণ,,,
-shops,Shops,মধ্যে পিকআপ,,,
-savedAddress,Saved Address,ডেবিট যোগ করুন,आपका आदेश,,
-help,Help,ক্রেডিট কার্ড,होगा,,
-faqs,FAQs,তোমার আদেশ,परेशानी करना,,
-privacyPolicies,Privacy policies,হবে,बाँटना,,
-contactUs,Contact Us,বিতরণ,,,
-customerCare,Customer Care,বিতরণ,,,
-#REF!,#REF!,পিকআপ কোন শো,समतल,,
-byClicking,By clicking ,গৃহ,अवरोध पैदा करना,,
-iAccept,I accept,সমান,ब्लॉक संख्या,,
-theTerms,the terms,ব্লক,अपार्टमेंट,,
-conditionsAnd,conditions and ,ব্লক নম্বর,सड़क,,
-priavacyPolicy,privacy policy.,অ্যাপার্টমেন্ট,क्षेत्र,,
-didn'tReceive,Didn't receive,রাস্তা,इसे बचाएं,,
-verifyVia,Verify via,অঞ্চল,के रूप में पता,,
-otp,OTP,এটা সংরক্ষন কর,क्या आप,,
-delivery,Delivery,ঠিকানা হিসাবে,नि: संदेह आपको,,
-pickupWithin,Pickup within,আপনি,चाहना,,
-addDebit,add debit,নিশ্চিত তুমি,एसएमएस ने भेजा,,
-creditCard,credit card,চাই,सफलतापूर्वक,,
-yourOrder,your order,প্রস্থান,,,
-willBe,will be,এসএমএস প্রেরণ,रहा है,,
-deliverAt,deliver at,সফলভাবে,पर भेजा गया,,
-deliver,deliver,একটি ওটিপি,आपका पंजीकृत,,
-pickupNoShow,pickup no show,হয়েছে,ओटीपी रिट्री,,
-house,House,পাঠানো,00.30 सेकंड में,,
-flat,Flat,আপনার নিবন্ধিত,,,
-block,Block,আপনি,,,
-blockNumber,Block Number,নিশ্চিত তুমি,,,
-appartment,Apartment,চাই,,,
-road,road,প্রস্থান,,,
-area,area,গ্রহণ করেনি,,,
-saveThis,save this ,ওটিপি পুনরায় চেষ্টা করুন,,,
-addressAs,address as,00.30 সেকেন্ডে,,,
-areYou,Are you,#VALUE!,,,
-sureYou,sure you ,#VALUE!,,,
-wantTo,want to,স্বাগত,स्वागत,,
-logOut,log out,সরভ.এই,sarvm.ai को,,
-smsSent,sms sent,আপনার ভাষা নির্বাচন করুন,अपनी भाषा का चयन करें,,
-successfullty,successfully,পরবর্তী,अगला,,
-anOtp,An OTP,মোবাইল নম্বর লিখুন,मोबाइल नंबर दर्ज करें,,
-hasBeen,has been,ওটিপি পান,OTP प्राप्त करें,,
-sentAt,sent at,যাচাইকরণ কোড,पुष्टि संख्या,,
-yourRegistered,your registered,ওটিপি প্রবেশ করান,OTP दर्ज करें,,
-areYou,Are you,ওটিপি পুনরায় পাঠানো,ओटीपी पुनः भेजें,,
-sureYou,sure you ,যাচাই করুন,सत्यापित करना,,
-wantTo,want to,দোকান ঠিকানা,दुकान का पता,,
-logOut,log out,আপনার ঠিকানা অনুসন্ধান করুন,अपना पता खोजें,,
-#REF!,#REF!,বিশদ লিখুন,विवरण दर्ज करें,,
-didn'tReceive,Didn't receive,প্রাতিষ্ঠানিক নাম,व्यवास्यक नाम,,
-otpRetry,otp retry,দোকান নং,दुकान सं।,,
-in00.30Secs,in 00.30 secs,বিল্ডিং/লোকেশন,भवन/स्थानीयता,,
-,,রাস্তা,सड़क,,
-,,ল্যান্ডমার্ক,सीमाचिह्न,,
-welcome,Welcome,শহর,शहर,,
-toSarvmai,to SarVM.ai,পিনকোড,पिन कोड,,
-selectYourLanguage,Select Your Language,সংরক্ষণ করুন এবং অবিরত থাকুন,सहेजें और जारी रखें,,
-next,Next,কাজের সময় নির্দিষ্ট করুন,कार्य समय निर्दिष्ट करें,,
-enterMobileNumber,Enter Mobile Number,প্রতিদিনের জন্য একই,हर दिन के लिए भी,,
-getOtp,Get OTP,এড়িয়ে যান,छोड़ें,,
-verificationCode,Verification Code,সংরক্ষণ করুন এবং চালিয়ে যান,सहेजें जारी रखें,,
-enterOtp,Enter OTP,সময় শুরু,समय शुरू,,
-resendOtp,Resend OTP,শেষ সময়,अंत समय,,
-verify,Verify,সম্পন্ন,पूर्ण,,
-shopAddress,Shop Address,কেওয়াইসি,केवाईसी,,
-searchYourAddress,Search your address,বাবার নাম,पिता का नाम,,
-enterDetails,Enter Details   ,ডিওবি,जन्म तिथि,,
-businessName,Business Name,প্রমাণ পরিচয় আপলোড করুন,प्रूफ पहचान अपलोड करें,,
-shopNo,Shop No.,অ্যাডা কার্ড,अधार कार्ड,,
-building/Locality,Building/Locality,আইডি কার্ড নম্বর.,पहचान पत्र क्रमांक।,,
-street,Street,প্যান কার্ড আপলোড করুন,पैन कार्ड अपलोड करें,,
-landmark,Landmark,প্যান কার্ড নং,पैन कार्ड नं।,,
-city,City,থেকে ফাইল আপলোড করুন,से फ़ाइल अपलोड करें,,
-pincode,Pincode,ব্যাংক বিবরণ,बैंक विवरण,,
-saveAndContinue,Save and Continue,সুবিধা প্রাপ্ত নাম,लाभार्थी का नाम,,
-specifyWorkingTime,Specify Working Time,ব্যাংকের নাম,बैंक का नाम,,
-sameForEveryDay,Same for Every Day,হিসাব নাম্বার.,खाता नंबर।,,
-skip,Skip,আইএফএসসি,IFSC,,
-save&Continue,Save & Continue,পাসবুক ফটো আপলোড করুন,पासबुक फोटो अपलोड करें,,
-startTime,Start Time,দোকান ঠিকানা,दुकान का पता,,
-endTime,End Time,মুলতুবি আদেশ,विचारधीन आदेश,,
-done,Done,বিশদ,विवरण,,
-Kyc,KYC,ইনভেন্টরি,भंडार,,
-father'sName,Father’s Name,পরিচালনা,प्रबंधन,,
-dob,DOB,অর্ডার,आदेश,,
-uploadProofIdentity,Upload Proof identity,পরিচালনা,प्रबंधन,,
-adharCard,Adhaar Card,বিতরণ,वितरण,,
-idCardNo.,ID Card No.,পরিচালনা,प्रबंधन,,
-uploadPanCard,Upload PAN Card,অর্থ প্রদান,भुगतान,,
-panCardNo,PAN Card No.,পরিচালনা,प्रबंधन,,
-uploadFileForm,Upload file from,ব্যয়,खर्च,,
-bankDetails,Bank Details,পরিচালনা,प्रबंधन,,
-BeneficiaryName,Beneficiary Name,সিআরএম,सीआरएम,,
-bankName,Bank Name,ক্রেতা,ग्राहक,,
-accountNo,Account No.,পরিষেবা,सेवा,,
-ifsc,IFSC,বি 2 বি কিনুন,B2b खरीदें,,
-uploadPassbookPhoto,Upload Passbook photo,প্রচার,पदोन्नति करना,,
-shopAddress,Shop Address,ব্যবহারকারী,उपयोगकर्ता,,
-pendingOrders,Pending Orders,পরিচালিত,प्रबंध,,
-details,Details,পি ও এল,पी एंड एल,,
-inventory,Inventory,সাবস্ক্রিপশন,अंशदान,,
-management,Management,ক্যাটালগ,सूची,,
-order,Order,পরিচালনা,प्रबंधन,,
-management,Management,বাড়ি,घर,,
-delivery,Delivery,যোগ করুন,जोड़ें,,
-management,management,ব্যবহারকারী,उपयोगकर्ता,,
-payment,Payment,হালনাগাদ,अद्यतन,,
-management,Management,ব্যবহারকারী,उपयोगकर्ता,,
-expenses,Expenses,ইউজার ম্যানেজমেন্ট,उपयोगकर्ता प्रबंधन,,
-management,management,অনুসন্ধান,खोज,,
-crm,CRM,ব্যবহারকারী যুক্ত করুন,उपयोगकर्ता जोड़ें,,
-customer,Customer,রিসেট,रीसेट,,
-service,Service,ব্যক্তিগত,निजी,,
-b2bBuy,B2B Buy,পরিচয়,पहचान,,
-promote,Promote,জরুরী যোগাযোগ,आपातकालीन संपर्क,,
-user,User,কর্মচারী আইডি,कर्मचारी आयडी,,
-management,Managemnt,পুরো নাম,पूरा नाम,,
-P&L,P & L,ভূমিকা অর্পণ,भूमिकाएँ सौंपें,,
-subscription,Subscription,ইমেল ঠিকানা *,ईमेल पता *,,
-catalog,Catalog,মোবাইল নম্বর *,मोबाइल नंबर *,,
-management,Management,শিক্ষা,शिक्षा,,
-home,Home,ঠিকানা লাইন,पता पंक्ति,,
-add,Add,ইউজার ম্যানেজমেন্ট,उपयोगकर्ता प्रबंधन,,
-user,User,ভূমিকা,भूमिकाएँ,,
-update,Update,যোগদানের তারিখ *,शामिल होने की तिथि *,,
-user,User,ব্যবহারকারী যুক্ত করুন,उपयोगकर्ता जोड़ें,,
-usermanagement,User Management,জরুরী যোগাযোগ,आपातकालीन संपर्क,,
-search,Search,আধার কার্ড আপলোড করুন,अधार कार्ड अपलोड करें,,
-addUser,Add User,স্পষ্ট,स्पष्ट,,
-reset,Reset ,প্যান কার্ড আপলোড করুন,पैन कार्ड अपलोड करें,,
-personal,Personal,প্রোফাইল ফটো,प्रोफ़ाइल तस्वीर,,
-identity,Identity,প্রতি মাসে বেসিক বেতন,प्रति माह बुनियादी वेतन,,
-emergencyContact,Emergency Contact,আগে,पिछला,,
-employeeId,Employee ID,জরুরী যোগাযোগের নম্বর *,आपातकालीन संपर्क नंबर *,,
-fullName,Full Name,যোগাযোগের নাম *,संपर्क नाम *,,
-assignRoles,Assign Roles,সম্পর্ক,रिश्ता,,
-emailAddress*,Email Address *,ব্যবহারকারী সফলভাবে তৈরি করেছেন,उपयोगकर्ता ने सफलतापूर्वक बनाया,,
-mobileNumber*,Mobile Number *,হ্যাঁ!,वाह!,,
-education,Education,যোগদানের তারিখ,शामिल होने की तिथि,,
-AddressLine,Address line ,নাম,नाम,,
-userManagement,User Management,"ইনভেন্টরি ম্যানেজার, ...","सूची प्रबंधक,...",,
-roles,Roles,ইএমপি আইডি,ईएमपी आईडी,,
-dateOfJoining*,Date of Joining *,সক্রিয়,सक्रिय,,
-addUser,Add User,নিষ্ক্রিয়,निष्क्रिय करें,,
-emergencyContact,Emergency Contact,ফোন,फ़ोन,,
-uploadAdhaarCard,Upload Adhaar Card,ইমেল,ईमेल,,
-clear,CLEAR,সফলভাবে মুছে ফেলা!,सफलतापूर्वक मिटाया गया!,,
-uploadPanCard,Upload PAN Card,ভোটার আইডি,वोटर आईडी,,
-profilePhoto,Profile Photo,ড্রাইভিং লাইসেন্স,ड्राइविंग लाइसेंस,,
-basicSalaryPerMonth,Basic Salary per month,পরিবর্তনগুলি আপডেট করুন,अद्यतन परिवर्तन,,
-previous,Previous,প্রতি মাসে বেসিক বেতন,प्रति माह बुनियादी वेतन,,
-EmergencyContactNumber*,Emergency Contact Number *,ইউজার ম্যানেজমেন্ট,उपयोगकर्ता प्रबंधन,,
-contactName*,Contact Name *,মুছতে ডেস্টিভ,हटाने के लिए निष्क्रिय,,
-relationship,Relationship,ফল,फल,,
-userCreatedSuccessfully,User Created Successfully,শাকসবজি,सब्ज़ियाँ,,
-yay!,YAY!,মুদি,किराने का सामान,,
-doj,Date of joining ,মাছ,मछलियों का वर्ग,,
-name,Name,মাংস,मांस,,
-"inventoryManager,..","Inventory Manager,...",দুগ্ধ,डेरी,,
-empId,Emp ID ,গ্রীষ্মমন্ডলীয় ফল,गर्म फल,,
-activate,Activate,ড্রুপ,ड्रूप,,
-deactivate,Deactivate,ফল,फल,,
-phone,Phone,পোম,सेब,,
-emailAddress*,Email,ফল,फल,,
-deletedSuccessfully!,Deleted Successfully!,বেরি,बेर,,
-voterId,Voter ID,অন্যান্য,अन्य,,
-drivingLicense,Driving License,অন্যান্য,अन्य,,
-updateChanges,Update Changes,বেকারি,बेकरी,,
-basicSalaryPerMonth,Basic Salary per month,ফুল,पुष्प,,
-userManagement,User Management,বাদাম,पागल,,
-deactiveToDelete,Deactive to Delete,শিম,फली,,
-fruits,Fruits,ক্যাপসুলস,कैप्सूल,,
-vegetables,Vegetables,যোগ করুন,जोड़ें,,
-groceries,Groceries,পণ্য,उत्पाद,,
-fishes,Fishes,হালনাগাদ,अद्यतन,,
-meat,Meat,পণ্য,उत्पाद,,
-dairy,Dairy,বিদ্যমান আপডেট,मौजूदा को अद्यतन करे,,
-tropicalFruits,Tropical Fruits,চালিয়ে যান,जारी रखना,,
-drupe,Drupe,সব দেখাও,सब दिखाएं,,
-fruits,Fruits,চালিয়ে যান,जारी रखना,,
-pome,Pome,প্রতি,प्रति,,
-fruits,Fruit,ক্রান্তীয়,उष्णकटिबंधीय,,
-berry,Berry,ফল,फल,,
-others,Others,ড্রাগন ফল,ड्रैगन फल,,
-others,Others,নির্বাচন করুন,चुनना,,
-bakery,Bakery,ড্রুপ,ड्रूप,,
-flowers,Flowers,ফল,फल,,
-nuts,Nuts,ড্রাগন ফল,ड्रैगन फल,,
-legume,Legume,আবেগ ফল,कृष्णकमल फल,,
-capsules,Capsules,রামবুটান,रामबुटन,,
-add,Add,আকাই,एक प्रकार का,,
-product,Product,পোম,सेब,,
-update,Update,ফল,फल,,
-product,Product,জ্যাক ফল,जैक फल,,
-updateExisting,Update Existing,ম্যাঙ্গোস্টিন,मंगोस्टीन,,
-continue,Continue,লিচি,लीची,,
-showAll,Show all,বেরি,बेर,,
-continue,Continue,পণ্যের বিবরণ,उत्पाद विवरण,,
-to,to,সাধারণ,सामान्य,,
-tropical,Tropical,বিক্রয় বিকল্প,विक्रय विकल्प,,
-fruits,fruits,ইনভেন্টরি,भंडार,,
-dragonFruit,Dragon fruit,রিটার্ন বিকল্প,वापसी विकल्प,,
-select,Select ,বিক্রিত,द्वारा बेचा,,
-drupe,Drupe,টুকরা,टुकड़े,,
-fruit,fruit,কিলোগ্রাম,किलोग्राम,,
-dragonFruit,Dragon fruit,লিটার,लीटर,,
-passionFruit,Passion fruit,নাম,नाम,,
-rambutan,Rambutan,উৎপত্তি স্থল,उत्पत्ति का स्थान,,
-acail,Acai,পণ্য সম্পর্কে,उत्पाद के बारे में,,
-pome,Pome,গ্রেডিং,ग्रेडिंग,,
-fruit,fruit,পরিমাণ,मात्रा,,
-jackFruit,Jack fruit,মধ্যে ফিরে,भीतर वापस लौटना,,
-mangosteen,Mangosteen,ফেরত নেই,कोई वापसी नहीं,,
-lychee,Lychee,একই দিন,उसी दिन,,
-berry,Berry,পরবর্তী দিন,अगले दिन,,
-productDetails,Product Details,কেনা দাম,लागत मूल्य,,
-general,General,ঘন্টা,घंटे,,
-sellingOption,Selling Option,স্কু,स्कू,,
-inventory,Inventory,মধ্যে ফিরে,भीतर वापस लौटना,,
-returnOption,Return Option,সর্বোচ্চ অর্ডার প্রতি Qty,अधिकतम। प्रति आदेश qty,,
-soldBy,Sold By,স্টক অবস্থা,स्टॉक की अवस्था,,
-pieces,pieces,নিয়মিত দাম,नियमित रूप से मूल्य,,
-kilogram,Kilogram,স্টক,स्टॉक में,,
-liter,Liter,স্টক বাইরে,स्टॉक ख़त्म,,
-name,Name,ডিসকাউন্ট মূল্য,डिस्काउंट मूल्य,,
-placeOfOrigin,Place Of Origin,দিন,दिन,,
-AboutProduct,About Product,ঘন্টার,घंटे,,
-grading,Grading,পণ্য সংরক্ষণ করুন,सहेजें उत्पाद,,
-quantity,Quantity,না,नहीं,,
-returnWithin,Return Within,হ্যাঁ,हाँ,,
-noReturn,No Return,পণ্য সফলভাবে যুক্ত,उत्पाद सफलतापूर्वक जोड़ा गया,,
-sameDay,Same Day,ছবি যোগ করুন,फ़ोटो जोड़ें,,
-nextDay,Next Day,পণ্য সফলভাবে তালিকাভুক্ত,उत्पाद सफलतापूर्वक सूचीबद्ध,,
-costPrice,Cost Price,সফলভাবে মুছে ফেলা!,सफलतापूर्वक मिटाया गया!,,
-Hrs,Hrs,সব,सभी,,
-sku,SKU,মুলতুবি বিশদ,लंबित विवरण,,
-returnWithin,Return Within,তালিকাভুক্ত,सूचीबद्ध,,
-maxQtyPerOrder,Max. qty per Order,তালিকাভুক্ত,गैर-सूचीबद्ध,,
-stockStatus,Stock Status,গ্রীষ্মমন্ডলীয় ফল (7),उष्णकटिबंधीय फल (7),,
-regularPrice,Regular Price,সাধারণ,सामान्य,,
-inStock,In Stock,বিক্রয় বিকল্প,विक्रय विकल्प,,
-outOfStock,Out of Stock,ইনভেন্টরি,भंडार,,
-discountPrice,Discount Price,রিটার্ন বিকল্প,वापसी विकल्प,,
-days,Days,সব দেখ,सभी देखें,,
-hours,Hours,নাম,नाम,,
-saveProduct,Save product ,বিশদ যুক্ত করুন,विस्तार जोड़ें,,
-no,No,হালনাগাদ,अद्यतन,,
-yes,Yes,লোভনীয়,असूचीबद्ध,,
-productAddedSuccessfully,Product Added Successfully,উৎপত্তি স্থল,उत्पत्ति का स्थान,,
-addPhoto,Add Photo,ড্রুপ ফল (10),Drupe फल (10),,
-productListedSuccessfully,Product Listed Successfully,পণ্য সম্পর্কে,उत्पाद के बारे में,,
-deletedSuccessfully!,Deleted Successfully!,গ্রেডিং,ग्रेडिंग,,
-all,All,বিক্রিত,द्वारा बेचा,,
-pendingDetails,Pending Details,পরিমাণ,मात्रा,,
-listed,Listed,টুকরা,टुकड़े,,
-unlisted,Unlisted,কিলোগ্রাম,किलोग्राम,,
-tropicalFruit(7),Tropical Fruit (7),লিটার,लीटर,,
-general,General,কেনা দাম,लागत मूल्य,,
-sellingOption,Selling Option,স্কু,स्कू,,
-inventory,Inventory,নিয়মিত দাম,नियमित रूप से मूल्य,,
-returnOption,Return Option,ডিসকাউন্ট মূল্য,डिस्काउंट मूल्य,,
-viewALl,View all,মিনি অর্ডার প্রতি মূল্য,छोटा। प्रति आदेश कीमत,,
-name,Name,গ্রাহক পিকআপ,ग्राहक बढ़ाना,,
-addDetail,Add Detail,নিজস্ব বিতরণ,अपनी सुपुर्दगी,,
-update,Update,তৃতীয় পক্ষ,तृतीय पक्ष,,
-unlist,Unlist,প্রক্রিয়াকরণের সময়,प्रोसेसिंग समय,,
-placeOfOrigin,Place Of Origin, মিনিট, मिनट,,
-drupeFruit(10),Drupe Fruit (10),পিকআপ স্লট,पिकअप स्लॉट,,
-aboutProduct,About Product,সময় শুরু,समय शुरू,,
-grading,Grading,শেষ সময়,अंत समय,,
-soldBy,Sold By,সময় শুরু,समय शुरू,,
-quantity,Quantity,শেষ সময়,अंत समय,,
-pieces,pieces,মুছে ফেলা,मिटाना,,
-kilogram,Kilogram,সংরক্ষণ,बचाना,,
-liter,Liter,বিতরণ স্লট,वितरण स्लॉट,,
-costprice,Cost Price,সরবরাহের সুযোগ,वितरण विकल्प,,
-sku,SKU,দূরত্ব কভার,दूरी कवर,,
-regularPrice,Regular Price, কিমি, किमी,,
-discountPrice,Discount Price,ডেলিভারি চার্জ,डिलीवरी चार्ज,,
-mini.PricePerOrder,Mini. price per order,বিনামূল্যে বিতরণ,नि: शुल्क डिलिवरी,,
-customerPickup,Customer Pickup,আরও অর্ডার উপর,आदेशों पर अधिक,,
-ownDelivery,Own Delivery,এর চেয়েও,बजाय,,
-thirdParty,Third Party,বিনামূল্যে শিপিং সক্ষম করুন,मुफ़्त शिपिंग सक्षम करें,,
-processignTime,Processing Time,ক্ষমতা,क्षमता,,
-Mins, mins,বিতরণ অংশীদার,वितरण भागीदार,,
-pickupSlots,Pickup Slots,সর্বশেষ ভাবনা,अंतिम विचार,,
-startTime,Start Time,মোবাইল নম্বর লিখুন,मोबाइल नंबर दर्ज करें,,
-endTime,End Time,জন্য সংখ্যা,के लिए संख्या,,
-startTime,Start Time,ওটিপি যাচাইকরণ,ओटीपी सत्यापन,,
-endTime,End Time,শর্তাবলী,नियम एवं शर्तें,,
-delete,Delete,এবং গোপনীয়তা নীতি,और गोपनीयता नीति,,
-save,Save,দয়া করে প্রবেশ করুন,कृपया दर्ज करें,,
-deliverySlots,Delivery Slots,যাচাইকরণ কোড,पुष्टि संख्या,,
-deliveryOptions,Delivery Options,জন্য পাঠানো,के लिए भेजा गया,,
-distanceCovers,Distance covers,প্রাপ্তি হয়নি,प्राप्त नहीं हुआ,,
-Km, km,ওটিপি,ओटीपी,,
-deliveryCharge,Delivery Charge,আপনার দোকান,आपकी दुकान,,
-freeDelivery,Free Delivery, কর্মঘন্টা, काम करने के घंटे,,
-onOrdersMore,on Orders more,অনুযায়ী নাম,नाम के अनुसार,,
-than,than,প্যান কার্ড,पैन कार्ड,,
-enableFreeShipping,Enable free Shipping,পুনরায় প্রবেশ,पुन: दर्ज,,
-capacity,Capacity,হিসাব নাম্বার.,खाता नंबर।,,
-deliveryPartner,Delivery Partner,তুমি কি নিশ্চিত.,क्या आपको यकीन है।,,
-finalThoughts,Final Thoughts,তুমি কি চাও,क्या तुम चाहते हो,,
-enterMobile,Enter mobile number,মুছে দিন?,हटाना?,,
-numberFor,number for,আপনি মুছতে পারবেন না,आप हटा नहीं सकते,,
-otpVerification,OTP Verification,সক্রিয় ব্যবহারকারী!,सक्रिय उपयोगकर्ता!,,
-terms&Conditions,Terms & Conditions,বিভাগ নির্বাচন করুন,श्रेणी चुनना,,
-andPrivacyPolicy,and Privacy Policy,পণ্য যোগ করতে,उत्पाद जोड़ने के लिए,,
-pleaseEnterThe,Please enter the,মিনি qty,छोटा। क्यूटी,,
-verificationCode,Verification code,প্রতি অর্ডারে,आदेश प्रति,,
-sentFor,sent for ,মিনি দাম,छोटा। कीमत,,
-didn'tReceive,Didn’t receive,আপনার সংরক্ষিত,आपका अनसुना,,
-theOtp,the OTP,বিশদ হবে,विवरण होगा,,
-yourShop,Your Shop,হারানো.,दफा हो जाओ।,,
-workingHours, Working hours,পরিবর্তনগুলোর সংরক্ষন,परिवर्तनों को सुरक्षित करें,,
-nameAsPer,Name as per,বন্ধ হওয়ার আগে,बंद होने से पहले,,
-PanCard,PAN Card,আপনি কি,क्या आप एक चाहेंगे,,
-re-enter,Re-enter,সরাতে,को स्थानांतरित करने को,,
-accountNo.,Account No.,তালিকাভুক্ত আইটেম,सूचीबद्ध आइटम,,
-areYouSure,Are you sure.,তুমি কি নিশ্চিত.,क्या आपको यकीन है।,,
-doYouWant,Do you want,তুমি কি চাও,क्या तुम चाहते हो,,
-toDelete?,to delete?,সর্বোচ্চ qty,अधिकतम। क्यूटी,,
-youCannotDelete,You cannot delete,রামবুটান হয়,रामबुटन है,,
-activeUser!,Active User!,সরানো,में ले जाया गया,,
-selectCategory,Select Category,বিপিএল আইডি,बीपीएल आईडी,,
-toAddProduct,to Add Product,পিকআপ এবং,पिकअप और,,
-mini.qty,MIni. qty , সরবরাহের সুযোগ, वितरण विकल्प,,
-perOrder,per Order,,,,
-mini.PricePerOrder,Mini. price,আমি বিক্রি করছি,मैं बेच रहा हूँ,,
-yourUnsaved,Your unsaved,দ্বারা অনুসন্ধান,खोज से,,
-detailsWill,details will,ফল বিভাগ,फल श्रेणी,,
-beLost,be lost.,সব,सभी,,
-saveChanges,Save changes,চালিয়ে যান,जारी रखना,,
-beforeClosing,before closing,ফল,फल,,
-wouldYouLike,Would you like,দুগ্ধ,डेरी,,
-toMoveTo,to move to,স্পষ্ট,साफ़,,
-listedItem,Listed Item,ফল নির্বাচন করুন,फलों का चयन करें,,
-areYouSure,Are you sure.,এড়িয়ে যান,छोड़ें,,
-doYouWant,Do you want,অনুসন্ধান,खोज,,
-max.qty,Max. qty,ড্রুপ ফল,फल,,
-rambutanIs,Rambutan is,পোম ফল,गुड़ का फल,,
-movedTo,moved to,বেরি,बेर,,
-BPLID,BPL ID,পণ্যের বিবরণ,उत्पाद विवरण,,
-pickupAnd,Pickup and,তালিকাভুক্ত,सूचीबद्ध,,
-deliveryOptions, Delivery Options,তালিকাভুক্ত,गैर-सूचीबद्ध,,
-,,বিশদ যুক্ত করুন,विस्तार जोड़ें,,
-imSelling,I'm Selling,সাধারণ,सामान्य,,
-searchBy,Search by,বিক্রয় বিকল্প,विक्रय विकल्प,,
-fruitsCategory,fruits Category,ইনভেন্টরি,भंडार,,
-all,All,রিটার্ন বিকল্প,वापसी विकल्प,,
-continue,Continue,নাম,नाम,,
-fruits,Fruits,উৎপত্তি স্থল,उत्पत्ति का स्थान,,
-dairy,Dairy,পণ্য সম্পর্কে,उत्पाद के बारे में,,
-clear,Clear,গ্রেডিং,ग्रेडिंग,,
-selectFruits,Select Fruits,সংরক্ষণ করুন এবং চালিয়ে যান,सहेजें जारी रखें,,
-skip,Skip,ছবি যোগ করুন,फ़ोटो जोड़ें,,
-search,Search,বিক্রিত,द्वारा बेचा,,
-drupeFruit,Drupe fruit,টুকরা,टुकड़े,,
-pomeFruit,Pome fruit,কিলোগ্রাম,किलोग्राम,,
-berry,Berry,লিটার,लीटर,,
-productDetails,Product Details,Mini.qty,Mini.qty,,
-listed,Listed,প্রতি অর্ডারে,आदेश प्रति,,
-unlisted,Unlisted,সর্বোচ্চ কিউটি,मैक्स क्यूटी,,
-addDetail,Add Detail,নিয়মিত দাম,नियमित रूप से मूल्य,,
-general,General,ডিসকাউন্ট মূল্য,डिस्काउंट मूल्य,,
-sellingOption,Selling Option,মিনি দাম,मिनी कीमत,,
-inventory,Inventory,পরিমাণ,मात्रा,,
-returnOption,Return Option,কেনা দাম,लागत मूल्य,,
-name,Name,স্কু,स्कू,,
-placeOfOrigin,Place Of Origin,স্টক অবস্থা,स्टॉक की अवस्था,,
-aboutProduct,About Product,দিন,दिन,,
-grading,Grading,ঘন্টার,घंटे,,
-saveContinue,Save&Continue,পণ্য যুক্ত,उत्पाद जोड़ा गया,,
-addPhoto,Add Photo,সফলভাবে হ্যাঁ,सफलतापूर्वक याय,,
-soldBy,Sold By,আপনি কি,क्या आप श,,
-pieces,pieces,পছন্দ,उसकी तरह,,
-kilogram,Kilogram,চলো,करने के लिए कदम,,
-liter,Liter,তালিকাভুক্ত আইটেম,सूचीबद्ध आइटम,,
-miniQty,Mini.qty,আপনি বিতরণ করছেন?,क्या आप वितरित कर रहे हैं?,,
-perOrder,per Order,না,नहीं,,
-maxQty,Max qty,হ্যাঁ,हाँ,,
-regularPrice,Regular price,পিকআপ এবং,पिकअप और,,
-discountPrice,Discount Price,সরবরাহের সুযোগ,वितरण विकल्प,,
-miniPrice,Mini price,গ্রাহক পিকআপ,ग्राहक बढ़ाना,,
-quantity,Quantity,নিজস্ব বিতরণ,अपनी सुपुर्दगी,,
-costPrice,Cost Price,তৃতীয় পক্ষ,तृतीय पक्ष,,
-sku,SKU,প্রক্রিয়াকরণের সময়,प्रोसेसिंग समय,,
-stockStatus,Stock Status,পিকআপ স্লট,पिकअप स्लॉट,,
-days,Days,সময় শুরু,समय शुरू,,
-hours,Hours,শেষ সময়,अंत समय,,
-producAdded,Product Added,ক্ষমতা,क्षमता,,
-successfullyYay,Successfully YAY,সংরক্ষণ,बचाना,,
-wouldYou,Would you ,মুছে ফেলা,मिटाना,,
-likeTo,like to,দূরত্ব কভার,दूरी कवर,,
-moveTo,move to,ডেলিভারি চার্জ,डिलीवरी चार्ज,,
-ListedItem,Listed Item,বিনামূল্যে বিতরণ,नि: शुल्क डिलिवरी,,
-areYouDelivering,Are you Delivering,আদেশ,आदेश पर,,
-no,No,অধিক,इससे अधिक,,
-yes,Yes,বিনামূল্যে সক্ষম করুন,मुक्त सक्षम करें,,
-pickupAnd,Pickup and,পাঠানো,शिपिंग,,
-deliveryOptions,Delivery Options,আমাদের উপকার,हमारा लाभ उठाएं,,
-customerPickup,Customer Pickup,বিতরণ সেবা,वितरण सेवा,,
-ownDelivery,Own Delivery,বিতরণ অংশীদার,वितरण भागीदार,,
-thirdParty,Third Party,সর্বশেষ ভাবনা,अंतिम विचार,,
-procesingTime,Processing Time,অন্যান্য,अन्य,,
-pickupSlots,Pickup Slots,,,,
-startTime,Start Time,,,,
-endTime,End Time,,,,
-capacity,Capacity,,,,
-save,Save,,,,
-delete,Delete,,,,
-distanceCovers,Distance covers,,,,
-deliveryCharge,Delivery Charge,,,,
-freeDelivery,Free Delivery,,,,
-onOrder,on Order,,,,
-moreThan,more than,,,,
-enableFree,Enable free,,,,
-shipping,Shipping,,,,
-availOur,avail our,,,,
-deliveryService,delivery service,,,,
-DelieveryPartner,Delivery Partner,,,,
-finalThoughts,Final Thoughts,,,,
-others,others,,,,
+diin'tReceiveOtpRetryIn00.30secs,"Didn't receive otp, retry
+in 00.30 secs.","ওটিপি গ্রহণ করেনি, পুনরায় চেষ্টা করুন
+00.30 সেকেন্ডে।","ओटीपी प्राप्त नहीं किया, रिट्री
+00.30 सेकंड में।","ಒಟಿಪಿ ಸ್ವೀಕರಿಸಲಿಲ್ಲ, ಮರುಪ್ರಯತ್ನಿಸಿ
+00.30 ಸೆಕೆಂಡುಗಳಲ್ಲಿ.","OTP ଗ୍ରହଣ କରିନାହିଁ, ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |
+00.30 ସେକେଣ୍ଡରେ |"
+continue,Continue,চালিয়ে যান,जारी रखना,ಮುಂದುವರಿಸು,ଜାରି ରଖ |
+byClickingIAcceptTheTermsConditionsAndPrivacyPolicy,"By clicking I accept the terms, conditions and privacy policy.","ক্লিক করে আমি শর্তাদি, শর্তাদি এবং গোপনীয়তা নীতি গ্রহণ করি।","क्लिक करके मैं शर्तों, शर्तों और गोपनीयता नीति को स्वीकार करता हूं।","ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನಾನು ನಿಯಮಗಳು, ಷರತ್ತುಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತೇನೆ.","ମୁଁ କ୍ଲିକ୍ କରି, ସର୍ତ୍ତ ଏବଂ ଗୋପନୀୟତା ନୀତି ଗ୍ରହଣ କରେ |"
+didn'tReceiveOtpVerifyVia,"Didn't receive OTP, Verify via","ওটিপি গ্রহণ করেনি, মাধ্যমে যাচাই করুন","ओटीपी प्राप्त नहीं किया, के माध्यम से सत्यापित करें","ಒಟಿಪಿ ಸ್ವೀಕರಿಸಲಿಲ್ಲ, ಮೂಲಕ ಪರಿಶೀಲಿಸಿ","VTP ଗ୍ରହଣ କରିନାହାଁନ୍ତି, ଭାୟା ଭୋଗୁଛନ୍ତି |"
+call,Call,কল,बुलाना,ಕರೆಯಿಸು,କଲ୍ କରନ୍ତୁ |
+sms,SMS,খুদেবার্তা,एसएमएस,ಎಸ್‌ಎಂಎಸ್,ଏସଏମଏସ
+whatsApp,WhatsApp,হোয়াটসঅ্যাপ,WhatsApp,ವಾಟ್ಸಾಪ್,ହ୍ ats ାଟସ୍ ଆପ୍ |
+orderAgain,order again,আবার অর্ডার,फिर से आदेश देना,ಮತ್ತೆ ಆದೇಶಿಸಿ,ପୁଣି ଅର୍ଡର କର
+currentLocation,Current location,এখন যেখানে আছ,वर्तमान स्थान,ಈಗಿನ ಸ್ಥಳ,ସାମ୍ପ୍ରତିକ ଅବସ୍ଥାନ |
+usingGps,using GPS,জিপিএস ব্যবহার করে,जीपीएस का उपयोग करना,ಜಿಪಿಎಸ್ ಬಳಸುವುದು,ଜିପି ବ୍ୟବହାର କରିବା |
+frequentlyUsed,Frequently used,ঘন ঘন ব্যবহৃত,बहुधा प्रयुक्त,ಆಗಾಗ್ಗೆ ಬಳಸಲಾಗುತ್ತದೆ,ବାରମ୍ବାର ବ୍ୟବହୃତ |
+#REF!,Other ,অন্য,अन्य,ಬೇರೆ,ଅନ୍ୟ
+work,Work ,কাজ,काम,ಕೆಲಸ,କାର୍ଯ୍ୟ
+home,Home ,বাড়ি,घर,ಮನೆ,ଘର
+recentSearch,Recent Search ,সাম্প্রতিক অনুসন্ধান,हाल ही में खोज,ಇತ್ತೀಚಿನ ಹುಡುಕಾಟ,ସାମ୍ପ୍ରତିକ ସନ୍ଧାନ |
+selectLocation,Select Location,স্থান নির্বাচন করুন,स्थान चुनें,ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ,ଅବସ୍ଥାନ ଚୟନ କରନ୍ତୁ |
+change,Change,পরিবর্তন,परिवर्तन,ಬದಲಾವಣೆ,ପରିବର୍ତ୍ତନ
+confirmLocation,Confirm location,অবস্থান নিশ্চিত করুন,स्थान की पुष्टि करें,ಸ್ಥಳವನ್ನು ದೃ irm ೀಕರಿಸಿ,ଅବସ୍ଥାନ ନିଶ୍ଚିତ କରନ୍ତୁ |
+distanceLessThan,Distance less than ,দূরত্বের চেয়ে কম,दूरी से कम,ಕಡಿಮೆ ದೂರ,ଠାରୁ କମ୍ ଦୂରତା |
+km,KM,কিমি,किमी,ಕಿಮೀ,କିଲୋମିଟର
+#REF!,#REF!,অধিক,इससे अधिक,ಹೆಚ್ಚು,ଠାରୁ ଅଧିକ
+moreThan,More than,বিতরণ/পিকআপ মধ্যে,डिलीवरी/पिकअप के भीतर,ಒಳಗೆ ವಿತರಣೆ/ಪಿಕಪ್,ଭିତରେ ବିତରଣ / ପିକଅପ୍ |
+deliveryPickupWithin,Delivery/Pickup within,সব,सभी,ಎಲ್ಲರೂ,ସମସ୍ତ
+all,All,বিতরণ,वितरण,ವಿತರಣೆ,ବିତରଣ
+delivery,Delivery ,পিকআপ,उठाना,ತಿಕ್ಕಲು,ପିକଅପ୍ |
+pickUp,Pickup,পূর্ববর্তী আদেশ,पिछला आदेश,ಹಿಂದಿನ ಕ್ರಮ,ପୂର୍ବ କ୍ରମ
+previousOrder,Previous order,প্রায়শই কেনা,अक्सर खरीदा,ಆಗಾಗ್ಗೆ ಖರೀದಿಸಲಾಗುತ್ತದೆ,ବାରମ୍ବାର କିଣିଛି |
+frequentlyUsed,Frequently bought,প্রস্তাবিত,अनुशंसित,ಶಿಫಾರಸು ಮಾಡಿದ,ସୁପାରିଶ କରାଯାଇଛି |
+recommended,Recommended,বিক্রেতা সম্পর্কে,विक्रेता के बारे में,ಮಾರಾಟಗಾರರ ಬಗ್ಗೆ,ବିକ୍ରେତା ବିଷୟରେ
+aboutSeller,About seller ,আইটেম বিক্রি,बेचना आइटम,ವಸ್ತುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವುದು,ଆଇଟମ୍ ବିକ୍ରୟ |
+sellingItems,Selling items,তালিকা,मेन्यू,ಮೆಳ್ಳಿ,ମେନୁ
+menu,Menu ,ফেভারিটে যোগ করুন,पसंदीदा में जोड़े,ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ,ପ୍ରିୟମାନଙ୍କୁ ଯୋଡନ୍ତୁ |
+addToFavorites,Add to favorites ,শেয়ার,शेयर करना,ಹಂಚು,ଅଂଶୀଦାର କରନ୍ତୁ |
+share,share ,শপ তথ্য,दुकान की सूचना,ಶಾಪಿಂಗ್ ಮಾಹಿತಿ,ଦୋକାନ ସୂଚନା
+shopInformation,shop Information,আরও,अधिक,ಆಫ್,ଅଧିକ
+more,More ,ফল,फल,ಫಲ,ଫଳଗୁଡିକ
+fruits,Fruits ,শাকসবজি,सब्ज़ियाँ,ತರಕಾರಿಗಳು,ପନିପରିବା |
+vegetables,Vegetables ,আজ,आज,ಇಂದು,ଆଜି
+today,Today,আগামীকাল,कल का दिन,ನಾಳೆ,ଆସନ୍ତାକାଲି
+tomorrow,Tomorrow,পরিমাণ যোগ করুন,मात्रा जोड़ें,ಪ್ರಮಾಣವನ್ನು ಸೇರಿಸಿ,ପରିମାଣ ଯୋଗ କରନ୍ତୁ |
+addQuantity,Add quantity ,টুকরা,टुकड़े,ತುಂಡು,ଖଣ୍ଡଗୁଡ଼ିକ
+pieces,pieces,টুকরা সংখ্যা,टुकड़ों की संख्या,ತುಣುಕುಗಳ ಸಂಖ್ಯೆ,ଖଣ୍ଡଗୁଡ଼ିକର ସଂଖ୍ୟା
+numberOfpieces,Number of pieces,পরিমাণ,राशि,ಮೊತ್ತ,ପରିମାଣ
+amount,Amount,কার্ট দেখুন,गाडी देंखे,ಕಾರ್ಟ್ ವೀಕ್ಷಿಸಿ,କାର୍ଟ ଦେଖନ୍ତୁ |
+viewCart,view cart,অর্ডার সংক্ষিপ্তসার,आदेश सारांश,ಆದೇಶ ಸಾರಾಂಶ,କ୍ରମ ସାରାଂଶ
+#REF!,#REF!,বিস্তারিত বিল,विस्तृत बिल,ವಿವರವಾದ ಬಿಲ್,ବିସ୍ତୃତ ବିଲ୍ |
+orderSummary,order summary,কার্ট মোট,कुल गाड़ी,ಕಾರ್ಟ್ ಒಟ್ಟು,କାର୍ଟ ସମୁଦାୟ
+detailedBill,detailed bill,ছাড়,छूट,ರಿಯಾಯಿತಿ,ରିହାତି
+cartTotal,cart total,মোট,कुल,ಒಟ್ಟು,ସମୁଦାୟ
+discount,discount,স্ব পিকআপ,स्व चयन,ಸ್ವಸಹಾಯ,ସେଲ୍ପ୍ ପିକଅପ୍ |
+total,total,মোট প্রদেয়,कुल देय,ಪಾವತಿಸಬೇಕಾದ ಒಟ್ಟು,ସମୁଦାୟ ଦେୟଯୋଗ୍ୟ |
+selfPickup,self pickup,পিকআপে অর্থ প্রদান করুন,पिकअप पर भुगतान करें,ಪಿಕಪ್ನಲ್ಲಿ ಪಾವತಿಸಿ,ପିକଅପ୍ ରେ ଦେୟ ଦିଅ |
+totalPayable,total payable,সংরক্ষণ বিশদ,बचाए गए विवरण,ಉಳಿಸಿದ ವಿವರಗಳು,ସବିଶେଷ ବିବରଣୀ ସଞ୍ଚୟ ହୋଇଛି |
+payAtPickup,pay at pickup,ডেবিট/এটিএম কার্ড,डेबिट/एटीएम कार्ड,ಡೆಬಿಟ್/ಎಟಿಎಂ ಕಾರ್ಡ್,ଡେବିଟ୍ / ଏଟିଏମ୍ କାର୍ଡ |
+savedDetails,saved details,নেট ব্যাংকিং,शुद्ध बैंकिंग,ನಿವ್ವಳ ಬ್ಯಾಂಕಿಂಗ್,ନିଟ୍ ବ୍ୟାଙ୍କିଙ୍ଗ୍ |
+debitAtmCard,debit/atm card,ডেবিট/ক্রেডিট কার্ড যুক্ত করুন,डेबिट/क्रेडिट कार्ड जोड़ें,ಡೆಬಿಟ್/ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಸೇರಿಸಿ,ଡେବିଟ୍ / କ୍ରେଡିଟ୍ କାର୍ଡ ଯୋଡନ୍ତୁ |
+netBanking,net banking,ওয়ালেট এবং আপি,बटुए और यूपीआई,ಕೈಚೀಲಗಳು ಮತ್ತು ಯುಪಿಐ,ୱାଲେଟ୍ ଏବଂ ୟୁଇ
+addDebitCreditCard,add debit/credit card,ফোনপ,phonepe,ಫನ್‌ಪೆ,ଫୋନ୍ଦେ
+walletsUpi,wallets & UPI,পেটিএম,Paytm,ಪೇಟಿಎಂ,ପେଟି
+phonepe,phonepe,অন্যান্য আপি,अन्य यूपीआई,ಇತರ ಯುಪಿಐ,ଅନ୍ୟ ଉତ୍ତୋଳୁଛି
+paytm,Paytm,নিরাপদে অর্থ প্রদান করুন,सुरक्षित रूप से भुगतान करें,ಸುರಕ್ಷಿತವಾಗಿ ಪಾವತಿಸಿ,ସୁରକ୍ଷିତ ଭାବରେ ଦେୟ ଦିଅ |
+otherUpi,other UPI,বিতরণ,परेशानी करना,ನಲ್ಲಿ ತಲುಪಿಸಿ,ରେ ବିତରଣ କରନ୍ତୁ |
+paySecurely,pay securely,কোনো যোগাযোগ নেই,कोई संपर्क नहीं,ಸಂಪರ್ಕವಿಲ್ಲ,କ contaction ଣସି ସମ୍ପର୍କ ନାହିଁ
+deliverAt,deliver at,নির্ধারিত ডেলিভারি,समय पर डिलीवरी,ನಿಗದಿತ ವಿತರಣೆ,ନିର୍ଧାରିତ ବିତରଣ |
+noContact,no contact,আমি,पूर्वाह्न,ಅಮ್,ମୁଁ
+scheduledDelivery,scheduled delivery,প্রধানমন্ত্রী,बजे,ಮಧ್ಯಾಹ್ನ,PM
+am,AM,ঘন্টা,घंटा,ಗಂಟೆ,ଘଣ୍ଟା
+pm,PM,বিনামূল্যে বিতরণ,नि: शुल्क डिलिवरी,ಉಚಿತ ವಿತರಣೆ,ମାଗଣା ବିତରଣ |
+hour,hour,সিভিভি লিখুন,CVV दर्ज करें,ಸಿವಿವಿ ನಮೂದಿಸಿ,CVV ପ୍ରବେଶ କରନ୍ତୁ |
+freeDelivery,free delivery,কার্ড নম্বর,कार्ड नंबर,ಕಾರ್ಡ್ ಸಂಖ್ಯೆ,କାର୍ଡ଼ ସଂଖ୍ୟା
+enterCvv,enter CVV,মেয়াদোত্তীর্ণ,समाप्ति,ಅವಧಿ ಮುಗಿಸು,ସମାପ୍ତି
+cardNumber,card number,কার্ডের ওপর নাম.,कार्ड पर नाम।,ಕಾರ್ಡ್ನಲ್ಲಿ ಹೆಸರು.,ପତ୍ର ଉପରେ ଲିଖିତ ନାମ।
+expiry,expiry,কার্ডের বিশদ সংরক্ষণ করুন,कार्ड विवरण सहेजें,ಕಾರ್ಡ್ ವಿವರಗಳನ್ನು ಉಳಿಸಿ,କାର୍ଡ ବିବରଣୀ ସଞ୍ଚୟ କରନ୍ତୁ |
+nameOnCard,name on card.,আইসিআইসিআই,आईसीआईसीआई,ಐಸಿಐಸಿ,ଆଇସିସି
+saveCardDetails,save card details,এসবিআই,स्टेट बैंक ऑफ इंडिया,ಸೇನೆಯ,SBI
+icici,icici,এইচডিএফসি,एचडीएफसी,ಎಚ್ಡಿಎಫ್ಸಿ,HDFC
+sbi,sbi,আরও ব্যাংক,अधिक बैंक,ಹೆಚ್ಚು ಬ್ಯಾಂಕುಗಳು,ଅଧିକ ବ୍ୟାଙ୍କଗୁଡିକ |
+hdfc,hdfc,ওডার নিশ্চিত,ओडर ने पुष्टि की,oder ದೃ confirmed ಪಡಿಸಲಾಗಿದೆ,ode ନିଶ୍ଚିତ ହୋଇଛି |
+moreBanks,more banks,আপনার অর্ডার বিতরণ করা হবে,आपका ऑर्डर डिलीवर हो जाएगा,ನಿಮ್ಮ ಆದೇಶವನ್ನು ತಲುಪಿಸಲಾಗುವುದು,ତୁମର ଅର୍ଡର ବିତରଣ କରାଯିବ |
+orderConfirmed,oder confirmed,অর্ডার নম্বর,क्रम संख्या,ಆದೇಶ ಸಂಖ್ಯೆ,ଅର୍ଡର ନମ୍ବର
+yourOrderWillBeDeliverAt,your order will be deliver at,অর্থ প্রদান,भुगतान,ಪಾವತಿ,ଦେୟ
+orderNumber,order number,আদেশের তারিখ,आदेश की तिथि,ಆದೇಶದ ದಿನಾಂಕ,କ୍ରମର ତାରିଖ
+payment,payment ,সাহায্য,मदद करना,ಸಹಾಯ ಮಾಡು,ସାହାଯ୍ୟ
+dateOfOrder,date of order,ট্র্যাক আদেশ,ऑर्डर पर नज़र रखें,ಟ್ರ್ಯಾಕ್ ಆದೇಶ,ଟ୍ରାକ୍ ଅର୍ଡର |
+help,help,সক্রিয় আদেশ,सक्रिय आदेश,ಸಕ್ರಿಯ ಕ್ರಮ,ସକ୍ରିୟ କ୍ରମ |
+trackOrder,track order,দেখুন,दृश्य,ನೋಟ,ଦର୍ଶନ
+activeOrder,active order,চ্যাট,बात करना,ಚಾಚು,ଚାଟ୍ କରନ୍ତୁ |
+view,view,আদেশ বিবরণী,ऑर्डर का विवरण,ಆದೇಶದ ವಿವರಗಳು,ବିବରଣୀ ଅର୍ଡର କରନ୍ତୁ |
+chat,chat,বাতিল,रद्द करना,ರದ್ದುಮಾಡು,ବାତିଲ୍ କରନ୍ତୁ |
+orderDetails,order details,বিতরণ,वितरण,ವಿತರಣೆ,ବିତରଣ
+cancel,cancel,সমর্থন,सहयोग,ಬೆಂಬಲ,ସମର୍ଥନ
+delivery,delivery,অর্থ প্রদান,भुगतान,ಪಾವತಿ,ଦେୟ
+support,support,আদেশ মোট,कुल आर्डर,ಆದೇಶದ ಒಟ್ಟು,ସମୁଦାୟ ଅର୍ଡର କରନ୍ତୁ |
+payment,payment,আদেশ স্থাপন,आदेश रखा,ಆದೇಶವನ್ನು ಇರಿಸಲಾಗಿದೆ,ଦିଆଯାଇଥିବା ଆଦେଶ
+orderTotal,order total,অর্ডার গৃহীত,आदेश स्वीकार किया गया,ಆದೇಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ,ଆଦେଶ ଗ୍ରହଣ
+orderPlaced,order placed,প্রক্রিয়াজাতকরণ,प्रसंस्करण,ಸಂಸ್ಕರಣೆ,ପ୍ରକ୍ରିୟାକରଣ
+orederAccepted,order accepted,প্রস্তুত,तैयार,ಸಿದ್ಧವಾದ,ପ୍ରସ୍ତୁତ
+processing,processing,প্রেরণ,भेजा गया,ರವಾನಿಸಿದ,ପଠାଗଲା
+ready,ready,বিতরণ/পিকআপ কোন শো,डिलीवरी/पिकअप नो शो,ತಲುಪಿಸು/ಪಿಕಪ್ ಇಲ್ಲ,ବିତରଣ / ପିକଅପ୍ କ show ଣସି ଶୋ ଦେଖ ନାହିଁ |
+dispatched,dispatched,বিক্রেতার সাথে যোগাযোগ করুন,विक्रेता से संपर्क कारें,ಸಂಪರ್ಕ ಮಾರಾಟಗಾರ,ବିକ୍ରେତାଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
+deliverPickupNoShow,deliver/pickup no show,অর্ডার সংক্ষিপ্তসার দেখুন,देखें आदेश सारांश,ಆದೇಶ ಸಾರಾಂಶವನ್ನು ವೀಕ್ಷಿಸಿ,ଅର୍ଡର ସାରାଂଶ ଦେଖନ୍ତୁ |
+contactSeller,contact seller,নির্দেশাবলী যুক্ত করুন,निर्देश जोड़ें,ಸೂಚನೆಗಳನ್ನು ಸೇರಿಸಿ,ନିର୍ଦ୍ଦେଶାବଳୀ ଯୋଡନ୍ତୁ
+viewOrderSummary,view order summary,আমার অ্যাকাউন্ট,मेरा खाता,ನನ್ನ ಖಾತೆ,ମୋ ଖାତା
+addInstructions,add instructions,প্রিয়,पसंदीदा,ನೆಚ್ಚಿನ,ପ୍ରିୟ
+myAccount,My account ,সেটিংস,समायोजन,ಸಂಯೋಜನೆಗಳು,ସେଟିଂସମୂହ
+favorite,favorite,আমার ঠিকানা,मेरा पता,ನನ್ನ ವಿಳಾಸ,ମୋ ଠିକଣା
+settings,settings,আমার পরিবার,मेरा परिवार,ನನ್ನ ಕುಟುಂಬ,ମୋର ପରିବାର
+myAddress,my address,উল্লেখ করুন,उद्घृत करना,ಉಲ್ಲೇಖಿಸು,ଅନୁସରଣ କରନ୍ତୁ |
+myFamily,my family,স্বতন্ত্র,व्यक्तिगत,ವ್ಯಕ್ತಿ,ବ୍ୟକ୍ତିଗତ
+refer,refer,বাসনেস,बसा,ಬಷಾರಿಕೆ,ବାଦାମ
+individual,individual,পোস্ট অর্ডার,पोस्ट ऑर्डर,ಪೋಸ್ಟ್ ಆದೇಶ,ପୋଷ୍ଟ କ୍ରମ
+busness,busness,প্রস্থান,लॉग आउट,ಲಾಗ್ ಔಟ್,ପ୍ରସ୍ଥାନ କର
+postOrder,post order,নাম,नाम,ಹೆಸರು,ନାମ
+logout,logout,যোগাযোগের নম্বর,संपर्क संख्या,ಸಂಪರ್ಕ ಸಂಖ್ಯೆ,ଯୋଗାଯୋଗ ସଂଖ୍ୟା
+name,Name ,সম্পর্ক,रिश्ता,ಸಂಬಂಧ,ସମ୍ପର୍କ
+contactNumber,Contact number,ওটিপি পান,OTP प्राप्त करें,ಒಟಿಪಿ ಪಡೆಯಿರಿ,OTP ପାଆନ୍ତୁ |
+relation,Relation,ওটিপি প্রবেশ করান,OTP दर्ज करें,ಒಟಿಪಿ ನಮೂದಿಸಿ,OTP ପ୍ରବେଶ କରନ୍ତୁ |
+getOtp,Get otp,মেল,मेल,ಮೇಲ್ಕಡೆ,ମେଲ୍
+enterOtp,enter otp,ফেসবুক,फेसबुक,ಫೇಸ್‌ಫೆಕ್,ଫେସବୁକ୍
+mail,Mail,নাম,नाम,ಹೆಸರು,ନାମ
+facebook,Facebook,ইমেল,ईमेल,ಇಮೇಲ್ ಮಾಡುವುದು,ଇମେଲ୍
+name,Name,যোগাযোগ,संपर्क Ajay करें,ಸಂಪರ್ಕ,ଯୋଗାଯୋଗ କରନ୍ତୁ |
+email,email,হালনাগাদ,अपडेट करें,ನವೀಕರಿಸು,ଅଦ୍ୟତନ କରନ୍ତୁ |
+contact,contact ,বাতিল,रद्द करना,ರದ್ದುಮಾಡು,ବାତିଲ୍ କରନ୍ତୁ |
+update,update ,আইটেম,सामान,ವಸ್ತುಗಳು,ବସ୍ତୁଗୁଡ଼ିକ
+cancel,cancel ,দোকান,दुकान का,ಅಂಗಡಿ,ଦୋକାନ
+items,Items,অবস্থান অনুমতি দিন,स्थान की अनुमति दें,ಸ್ಥಳವನ್ನು ಅನುಮತಿಸಿ,ଅବସ୍ଥାନକୁ ଅନୁମତି ଦିଅନ୍ତୁ |
+shops,Shop's,বিজ্ঞপ্তি অনুমতি দিন,अधिसूचना की अनुमति दें,ಅಧಿಸೂಚನೆಯನ್ನು ಅನುಮತಿಸಿ,ବିଜ୍ଞପ୍ତି ଅନୁମତି ଦିଅନ୍ତୁ |
+allowLocation,Allow location,অন্য,अन्य,ಬೇರೆ,ଅନ୍ୟ
+allowNotification,Allow notification,বাড়ির কাজ,घर का पाठ,ಮನೆಕೆಲಸ,ଗୃହ କାର୍ଯ୍ୟ
+otherUpi,other,নতুন ঠিকানা যোগ করুন,नया पता जोड़ें,ಹೊಸ ವಿಳಾಸವನ್ನು ಸೇರಿಸಿ,ନୂତନ ଠିକଣା ଯୋଡନ୍ତୁ |
+homeWork,home work,বাড়ি/ফ্ল্যাট/ব্লক নম্বর,हाउस/फ्लैट/ब्लॉक नंबर,ಮನೆ/ಫ್ಲಾಟ್/ಬ್ಲಾಕ್ ಸಂಖ್ಯೆ,ଘର / ଫ୍ଲାଟ / ବ୍ଲକ୍ ନମ୍ବର |
+addNewAddress,Add new address,অ্যাপার্টমেন্ট/রাস্তা/অঞ্চল,Appartment/सड़क/क्षेत्र,ಅಪಾರ್ಟ್ಮೆಂಟ್/ರಸ್ತೆ/ಪ್ರದೇಶ,ଆପାର୍ଟମେଣ୍ଟ / ରୋଡ୍ / କ୍ଷେତ୍ର |
+houseFlatBlockNumber,House/Flat/Block number,জমি চিহ্ন,सीमाचिह्न,ಹೆಗ್ಗುರುತು,ଜମି ଚିହ୍ନ
+appartment/road/area,Appartment/road/area,এই ঠিকানা হিসাবে সংরক্ষণ করুন,इस पते को सहेजें,ಈ ವಿಳಾಸವನ್ನು ಹೀಗೆ ಉಳಿಸಿ,ଏହି ଠିକଣାକୁ ସେଭ୍ କରନ୍ତୁ |
+landMark,land mark,সংরক্ষণ করুন এবং এগিয়ে যান,सहेजें और आगे बढ़ें,ಉಳಿಸಿ ಮತ್ತು ಮುಂದುವರಿಯಿರಿ,ସଞ୍ଚୟ କର ଏବଂ ଅଗ୍ରଗତି କର |
+saveThisAddressAs,save this address as,শর্তাবলী,नियम और शर्तें,ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು,ସର୍ତ୍ତାବଳୀ
+saveAndProceed,save and proceed,FAQS,सामान्य प्रश्नोत्तर,FAQS,FAQs
+termsAndConditions,terms and conditions ,গোপনীয়তা নীতি,गोपनीयता नीति,ಗೌಪ್ಯತಾ ನೀತಿ,ଗୋପନୀୟତା ନୀତି
+faqs,FAQS,যোগাযোগ করুন,संपर्क करें,ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ,ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
+privacyPolicy,Privacy policy ,গ্রাহক সেবা,ग्राहक देखभाल,ಗ್ರಾಹಕ ಆರೈಕೆ,ଗ୍ରାହକ ସେବା
+contactUs,contact us,গ্রাহক যত্ন নম্বর,ग्राहक देखभाल संख्या,ಗ್ರಾಹಕ ಆರೈಕೆ ಸಂಖ್ಯೆ,ଗ୍ରାହକ ସେବା ସଂଖ୍ୟା |
+customerCare,customer care,আপনি লগ আউট করতে চান,क्या आप लॉग आउट करना चाहते हैं,ನೀವು ಲಾಗ್ .ಟ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ ಎಂದು ನಿಮಗೆ ಖಚಿತವಾಗಿದೆಯೇ?,ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି |
+customerCareNumber,customer care number ,হ্যাঁ,हां,ಹೌದು,ହଁ
+areYouSureYouWantToLogOut,Are you sure you want to log out,না,नहीं,ಇಲ್ಲ,ନା
+yes,yes,এসএমএস সফলভাবে প্রেরণ,एसएमएस सफलतापूर्वक भेजा गया,SMS ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ,SMS ସଫଳତାର ସହିତ ପଠାଇଲେ |
+no,no ,আবার বৈধতা,फिर से मान्य करें,ಮತ್ತೆ ಮೌಲ್ಯೀಕರಿಸಿ,ପୁନର୍ବାର ବ valid ଧ କରନ୍ତୁ |
+smsSentSuccessfully,sms sent successfully ,কর্মচারী,कर्मचारी,ಉದ್ಯೋಗಿ,କର୍ମଚାରୀ
+validateAgain,validate again,স্বতন্ত্র,व्यक्तिगत,ವ್ಯಕ್ತಿ,ବ୍ୟକ୍ତିଗତ
+employee,Employee ,বুয়েসনেস,व्यापार,ಅಡ್ಡಿ,ବିଚମୀନତା
+individual,individual ,বোর্ডে,सवार,ಹಡಗಿನಲ್ಲಿ,ସବାର
+busness,buisness ,বোর্ডে স্ব,बोर्ड पर स्व,ಸ್ವಯಂ ಮಂಡಳಿಯಲ್ಲಿ,ବୋର୍ଡରେ ଆତ୍ମ
+onboard,onboard ,বুয়েস দ্বারা জাহাজে,Buisness द्वारा जहाज पर,ಬ್ಯುಸಿನೆಸ್‌ನಿಂದ ಆನ್‌ಬೋರ್ಡ್,ବୁଲିଯିବା ଦ୍ୱାରା ଅନ୍ବୋର୍ଡ |
+selfOnBoard,self on board ,খুচরা বিক্রেতা,फुटकर विक्रेता,ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿ,ଖୁଚୁରା ବ୍ୟବସାୟୀ
+onboardByBuisness,onboard by buisness ,মধ্য মানুষ,मिडल मैन,ಮಧ್ಯವರ್ತಿ,ମଧ୍ୟମ ଲୋକ
+retailer,retailer,প্রাক্তন,भूतपूर्व,ಮಾಜಿ,ପୂର୍ବ
+middleMan,middle man,ফোন নম্বর,फ़ोन नंबर,ದೂರವಾಣಿ ಸಂಖ್ಯೆ,ଫୋନ୍ ନମ୍ବର
+former,former,হাউস নং,घर नहीं,ಹೌಸ್ ಇಲ್ಲ,ହାଉସ୍ ନା
+phoneNumber,phone number ,বিল্ডিং,इमारत,ಕಟ್ಟಡ,ନିର୍ମାଣ
+houseNo,hous no,রাস্তা,सड़क,ಬೀದಿ,ଗଳି
+building,building ,ল্যান্ডমার্ক,सीमाचिह्न,ಹೆಗ್ಗುರುತು,ଚିହ୍ନ ଚିହ୍ନ
+street,Street ,অবস্থা,राज्य,ರಾಜ್ಯ,ରାଜ୍ୟ
+landmark,landmark ,শহর,शहर,ನಗರ,ସହର
+state,state ,পিনকোড,पिन कोड,ಕಸಚೋದಿ,ପିନକୋଡ୍ |
+city,City ,অবস্থান,स्थान,ಸ್ಥಳ,ଅବସ୍ଥାନ
+pincode,pincode ,জমা দিন,प्रस्तुत,ಸಲ್ಲಿಸು,ଦାଖଲ କର |
+location,location ,ঠিকানা সম্পাদনা,पता संपादित करें,ವಿಳಾಸವನ್ನು ಸಂಪಾದಿಸಿ,ଠିକଣା ସଂପାଦନ କରନ୍ତୁ
+submit,submit ,সদস্য যুক্ত করুন,सदस्य जोड़ें,ಸದಸ್ಯರನ್ನು ಸೇರಿಸಿ,
+editAddress,Edit Address,,,,
+addMember,Add member,,,,
+deliveryWithin,Delivery within,,,,
+home,Home,,,,
+notification,Notification,,,,
+voice,voice,,,,
+fruitsShop,Fruits Shop,,,,
+delivering,Delivering ,,,,
+notDelivering,Not delivering,,,,
+sellerProfile,Seller profile,,,,
+fabulous,Fabulous,,,,
+customerRated,Customer rated,,,,
+searchLocation,Search location,,,,
+shopByCategories,Shop by categories,,,,
+next,next,,,,
+addToFavorites,Add to favorites ,,,,
+shopInfo,Shop Info,,,,
+fruits,Fruits,,,,
+vegatables,Vegatables,,,,
+localGarden,Local Garden,,,,
+addQuantity,Add Quantity ,,,,
+confirm,Confirm,,,,
+viewCart,View Cart,,,,
+paySecurely,Pay Securely,,,,
+deliveryWithin,Delivery Within,,,,
+orderNumber,Order Number,,,,
+payment,Payment,,,,
+#REF!,#REF!,,,,
+help,Help,,,,
+trackOrder,Track order,,,,
+view,View,,,,
+chat,Chat,,,,
+#REF!,#REF!,,,,
+orderDetails,order details,,,,
+cancelOrder,Cancel Order,,,,
+addInstructions,Add instructions,,,,
+support,support,,,,
+myFamily,My family,,,,
+reffer,Reffer,,,,
+individual,Individual,,,,
+business,Business,,,,
+pastOrders,Past Orders,,,,
+viewMoreOrders,View More Orders,,,,
+logOut,LOG OUT,,,,
+name,Name,,,,
+mobileNumber,Mobile Number,,,,
+relation,Relation,,,,
+add,Add,,,,
+enterOtp,Enter OTP,,,,
+verify,Verify,,,,
+otp,OTP,,,,
+anOtpHasBeenSentAtYourRegisteredMobileNumber,An OTP has been sent at your registered mobile number,,,,
+refferBy,Reffer by,,,,
+email,Email,,,,
+facebook,Facebook,,,,
+whatsapp,Whatsapp,,,,
+message,Message,,,,
+editProfile,Edit Profile,,,,
+cancel,CANCEL,,,,
+favoruites,Favoruites,,,,
+shops,Shops,,,,
+savedAddress,Saved Address,,,,
+help,Help,,,,
+faqs,FAQs,,,,
+privacyPolicies,Privacy policies,,,,
+contactUs,Contact Us,,,,
+customerCare,Customer Care,,,,
+areYouSureYouWantToLogOut,Are you sure you want to log out,,,,
