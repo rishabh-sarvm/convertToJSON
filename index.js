@@ -51,18 +51,22 @@ app.post("/files", upload.single('csv'), async (req, res) => {
     let files = req.file;
 
     csvtojson()
-        .fromFile(csvfilepath)
+        .fromFile(csvfilepath, { encoding: 'utf-8' })
         .then((json) => {
+
+            // console.log(json)
 
             let len = Object.keys(json[0]).length;
 
-            console.log(json[0]);
+            // console.log("json", json[0]);
 
             let objs = [];
 
             let error = {};
 
             let naming = [];
+
+            let duplicate = {}, already = {}
 
             Object.keys(json[0]).forEach((key) => {
                 naming.push(key);
@@ -78,6 +82,14 @@ app.post("/files", upload.single('csv'), async (req, res) => {
 
                 let arr = [];
 
+                let word = json[i]['keys']
+
+                if (word in already) {
+                    duplicate[word] += 1;
+                }
+
+                already[word] = 1;
+
                 Object.keys(json[i]).forEach(key => {
 
                     let val = json[i][key];
@@ -90,9 +102,11 @@ app.post("/files", upload.single('csv'), async (req, res) => {
                             error[i + 2][key] = val;
                         }
                     }
-
                     arr.push(val);
                 })
+
+                if (arr[0] == "item")
+                    console.log(arr)
 
                 for (let m = 0; m < arr.length; m++) {
 
@@ -103,16 +117,20 @@ app.post("/files", upload.single('csv'), async (req, res) => {
                 arr = [];
             }
 
-            console.log(error);
+            // console.log(error);
 
             for (let i = 1; i < len; i++) {
-                fs.writeFileSync(naming[i] + ".json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
-                    if (err) console.log(err)
+                fs.writeFileSync(naming[i] + "_v2.json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
+                    // if (err) console.log(err)
                 })
             }
 
             fs.writeFileSync("error.json", JSON.stringify(error, null, 4), "utf-8", (err) => {
-                if (err) console.log(err)
+                // if (err) console.log(err)
+            })
+
+            fs.writeFileSync("duplicate.json", JSON.stringify(duplicate, null, 4), "utf-8", (err) => {
+                // if (err) console.log(err)
             })
         })
 
