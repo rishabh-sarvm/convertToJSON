@@ -120,7 +120,7 @@ app.post("/files", upload.single('csv'), async (req, res) => {
             // console.log(error);
 
             for (let i = 1; i < len; i++) {
-                fs.writeFileSync(naming[i] + "_v2.json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
+                fs.writeFileSync(naming[i] + "_v4.json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
                     // if (err) console.log(err)
                 })
             }
@@ -137,4 +137,4 @@ app.post("/files", upload.single('csv'), async (req, res) => {
     res.render('home');
 })
 
-app.listen(1342)
+app.listen(1341)
