@@ -54,7 +54,7 @@ app.post("/files", upload.single('csv'), async (req, res) => {
         .fromFile(csvfilepath, { encoding: 'utf-8' })
         .then((json) => {
 
-            // console.log(json)
+            // console.log("json->", json[1])
 
             let len = Object.keys(json[0]).length;
 
@@ -64,6 +64,23 @@ app.post("/files", upload.single('csv'), async (req, res) => {
 
             let error = {};
 
+            //it contains the name of the key -> 1st row acting as a key
+            // json[0]-> {
+            //     keys: 'productItem',
+            //     English: 'Product Item',
+            //     Bangala: 'পণ্য আইটেম',
+            //     Hindi: 'उत्पाद',
+            //     Kannada: 'ಉತ್ಪನ್ನದ ವಸ್ತುಗಳು',
+            //     Odia: 'ଉତ୍ପାଦ ବସ୍ତୁ',
+            //     Assamese: 'প্ৰডাক্ট আইটেম',
+            //     Gujarati: 'ઉત્પાદીત વસ્તુ',
+            //     Marathi: 'उत्पादन वस्तू',
+            //     Malayalam: 'ഉൽപ്പന്ന ഇനം',
+            //     punjabi: 'ਉਤਪਾਦ ਆਈਟਮ',
+            //     Tamil: 'தயாரிப்பு உருப்படி',
+            //     Telugu: 'ఉత్పత్తి అంశం'
+            //   }
+
             let naming = [];
 
             let duplicate = {}, already = {}
@@ -72,11 +89,13 @@ app.post("/files", upload.single('csv'), async (req, res) => {
                 naming.push(key);
             })
 
+            //len -> it tells that how many languages are there -> that is how many columns arw eth
             for (let i = 0; i < len; i++) {
                 let now = new Object();
                 now['System'] = {};
                 objs.push(now);
             }
+
 
             for (let i = 0; i < Object.keys(json).length; i++) {
 
@@ -84,14 +103,17 @@ app.post("/files", upload.single('csv'), async (req, res) => {
 
                 let word = json[i]['keys']
 
+                //it is for taking out duplicate keys
                 if (word in already) {
                     duplicate[word] += 1;
                 }
 
                 already[word] = 1;
 
+                //iterating each row of the csv file
                 Object.keys(json[i]).forEach(key => {
 
+                    //val = json[3]['Hindi'] = कीमत|
                     let val = json[i][key];
 
                     if (spChar(val)) {
@@ -99,10 +121,13 @@ app.post("/files", upload.single('csv'), async (req, res) => {
                             error[i + 2][key] = val;
                         else {
                             error[i + 2] = new Object();
+                            // error[6]['Hindi'] = कीमत|
                             error[i + 2][key] = val;
                         }
                     }
+
                     arr.push(val);
+                    //Item,পণ্য,वस्तु,ಕಲೆ,ଆଇଟମ୍,সামগ্ৰী,વસ્તુ,वस्तू,ഇനം,ਆਈਟਮ,உருப்படி,వస్తువు
                 })
 
                 if (arr[0] == "item")
@@ -120,16 +145,16 @@ app.post("/files", upload.single('csv'), async (req, res) => {
             // console.log(error);
 
             for (let i = 1; i < len; i++) {
-                fs.writeFileSync(naming[i] + "_v4.json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
+                fs.writeFileSync("./v4/" + naming[i] + "_v4.json", JSON.stringify(objs[i], null, 4), "utf-8", (err) => {
                     // if (err) console.log(err)
                 })
             }
 
-            fs.writeFileSync("error.json", JSON.stringify(error, null, 4), "utf-8", (err) => {
+            fs.writeFileSync("./v4/error.json", JSON.stringify(error, null, 4), "utf-8", (err) => {
                 // if (err) console.log(err)
             })
 
-            fs.writeFileSync("duplicate.json", JSON.stringify(duplicate, null, 4), "utf-8", (err) => {
+            fs.writeFileSync("./v4/duplicate.json", JSON.stringify(duplicate, null, 4), "utf-8", (err) => {
                 // if (err) console.log(err)
             })
         })
